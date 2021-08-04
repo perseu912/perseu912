@@ -12,7 +12,9 @@
 
 - 🔭 I’m currently working on **[Hipatia mathematician's lib](https://pypi.com/project/hipatia)**
 
-- 🌱 I’m currently learning **String Theory and Astrophysics.**
+- 📊 I'm working more in the  **topics from Data Science and theorical physics.**
+
+- 🌱 I’m Researcher in the **String Theory and Astrophysics.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -36,6 +38,15 @@
  
   
 </p>
+
+
+<p align="center">
+    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=perseu912&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+
  <div>
   <a href="https://github.com/perseu912">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=perseu912&show_icons=true&theme=dracula&show_owner=true&include_all_commits=true&count_private=true"/>
@@ -48,6 +59,8 @@
   
   ##
  
+
+  
 <div> 
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

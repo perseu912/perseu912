@@ -35,6 +35,7 @@
  <a target="_blank"><img src="https://img.icons8.com/color/48/000000/flutter.png"/></a>
  <a target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/></a>
    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+  <a><img src="https://img.icons8.com/color/48/000000/latex.png"/></a>
  
   
 </p>

@@ -1,6 +1,6 @@
-## Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Reinan Br'
-<img align="center" height="400" src="https://raw.githubusercontent.com/perseu912/perseu912/main/img/logo8_4_14346.png"/>
-
+<h1 align='center'> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Reinan Br' <br/>
+<img align="center" height="280" src="https://raw.githubusercontent.com/perseu912/perseu912/main/img/logo8_4_14346.png"/>
+</h1>
 
 
 <!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=perseu912&repo=iara&theme=buefy)](https://github.com/mhankbarbar/termux-wabot) -->

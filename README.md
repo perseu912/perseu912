@@ -6,20 +6,31 @@
 
   
 <div> 
-  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/Code_space-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/reynan_dos_santts" target="_blank"><img src="https://img.shields.io/badge/Reynan-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/channel/UCdXIsHEtUUOQthqylhEjFRg" target="_blank"><img src="https://img.shields.io/badge/Reinan_Br-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/reynan_dos_santts" target="_blank"><img src="https://img.shields.io/badge/reynandossants-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:perseu912@gmail.com"><img src="https://img.shields.io/badge/perseu912-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/reinan-bezerra-2ab037202/" target="_blank"><img src="https://img.shields.io/badge/Reinan-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/reinan-bezerra-2ab037202/" target="_blank"><img src="https://img.shields.io/badge/Reinan-Twitter-%230277B1?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/reinan-bezerra-2ab037202/" target="_blank"><img src="https://img.shields.io/badge/reinan_sants-Twitter-%230277B1?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
 
- 
+## my Lib's/Project's on the [Pypi](https://pypi.org):
+
+ - [Candphy](https://pypi.org/project/candphy 'for physics works')
+  
+ - [Toddy](https://pypi.org/project/toddy 'for development in python')
+  
+ - [Qfunction](https://pypi.org/project/qfunction 'for works in non-extensives algebra')
+  
+ - [CovidBr](https://pypi.org/project/covidbr)
+  
+  
+  
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **[group of physics computational](https://github.com/gpftc)**
 
 - 📊 I'm working more in the  **topics from Code Development, Pentest, Web/App Development, Data Science, OS Testing and Theorical Physics.**
 
-- 🌱 I’m Researcher in the **String Theory, Quantum Theory, CFD, Modern Physics, Discret Math.**
+- 🌱 I’m Researcher in the **Astrophysics, String Theory, Quantum Theory, CFD, Modern Physics, Discret Math.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -36,15 +47,23 @@
 
 <p align="left">
   <a><img src="https://img.icons8.com/color/48/000000/linux--v1.png"/></a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
+    <a href="https://www.python.org" target="_blank" alt='python3+'> <img src="https://img.icons8.com/color/48/000000/python.png" /> </a>
     <a href="https://c.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
     <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a> 
- <a href="https://postman.com" target="_blank"> <img src="https://img.icons8.com/nolan/64/ibm.png"/></a>   
-   <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+ <a href="https://postman.com" target="_blank"> <img src="https://img.icons8.com/nolan/64/ibm.png"/></a> 
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
   <a><img src="https://img.icons8.com/color/48/000000/latex.png"/></a>
- 
-  
+  <a><img src="https://img.icons8.com/color/48/000000/flutter.png"/><a>
+   <a><img src="https://img.icons8.com/color/50/000000/dart.png"/></a>
+    <a><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/></a>
+    <a><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/><a>
+  <a><img src="https://img.icons8.com/color/48/000000/css3.png"/><a>
+    <a><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
+    <a><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
+    <img src="https://img.icons8.com/ios/50/000000/flask.png"/>
+    
 </p>
+    
 
 
 <p align="center">

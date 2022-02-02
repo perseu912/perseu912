@@ -5,27 +5,26 @@
 
 
   
-<div> 
-  <a href="https://www.youtube.com/channel/UCdXIsHEtUUOQthqylhEjFRg" target="_blank"><img src="https://img.shields.io/badge/Reinan_Br-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<div>
   <a href="https://www.instagram.com/reynan_dos_santts" target="_blank"><img src="https://img.shields.io/badge/reynandossants-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/reinan-bezerra-2ab037202/" target="_blank"><img src="https://img.shields.io/badge/Reinan-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/reinan-bezerra-2ab037202/" target="_blank"><img src="https://img.shields.io/badge/reinan_sants-Twitter-%230277B1?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
 
 ## my Lib's/Project's on the [Pypi](https://pypi.org):
 
- - [TubeMp3](https://pypi.org/project/tubemp3 'a lib for get music from youtube in high quality')
+ - [TubeMp3](https://pypi.org/project/tubemp3 'a lib for get music from youtube in high quality') <img src='https://img.shields.io/pypi/v/tubemp3'><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/tubemp3"><img alt="PyPI - License" src="https://img.shields.io/pypi/l/tubemp3?color=brightgreen">
   
- - [GetPdf](https://pypi.org/project/getpdf 'search and download for PDF"s')
+ - [GetPdf](https://pypi.org/project/getpdf 'search and download for PDF"s') <img src='https://img.shields.io/pypi/v/getpdf'><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/getpdf"><img alt="PyPI - License" src="https://img.shields.io/pypi/l/getpdf?color=brightgreen">
   
- - [NOAAWC](https://pypi.org/project/noaawc 'a lib in pyhon for works with dataset from nooa org')
+ - [NOAAWC](https://pypi.org/project/noaawc 'a lib in pyhon for works with dataset from nooa org') <img src='https://img.shields.io/pypi/v/noaawc'><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/noaawc"><img alt="PyPI - License" src="https://img.shields.io/pypi/l/noaawc">
  
- - [NOAWClg](https://pypi.org/project/noawclg 'a light lib version from noaawc')
+ - [NOAWClg](https://pypi.org/project/noawclg 'a light lib version from noaawc') <img src='https://img.shields.io/pypi/v/noawclg'><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dw/noawclg"><img alt="PyPI - License" src="https://img.shields.io/pypi/l/noawclg">
 
- - [GWaves](https://pypi.org/project/gwaves 'A lib from python for works with gravitational waves data')
+
+ - [GWaves](https://pypi.org/project/gwaves 'A lib from python for works with gravitational waves data') <img src='https://img.shields.io/pypi/v/gwaves'><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/gwaves"><img alt="PyPI - License" src="https://img.shields.io/pypi/l/gwaves?color=brightgreen">
   
- - [Qfunction](https://pypi.org/project/qfunction 'for works in non-extensives algebra')
+ - [Qfunction](https://pypi.org/project/qfunction 'for works in non-extensives algebra') <img src='https://img.shields.io/pypi/v/qfunction'><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/qfunction"><img alt="PyPI - License" src="https://img.shields.io/pypi/l/qfunction?color=brightgreen">
   
- - [CovidBr](https://pypi.org/project/covidbr)
+ - [CovidBr](https://pypi.org/project/covidbr) <img src='https://img.shields.io/pypi/v/covidbr'><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/covidbr">
   
   
   
@@ -33,7 +32,7 @@
 
 - 🔭 I’m currently working on **[group of physics computational](https://github.com/gpftc)**
 
-- 📊 I'm working more in the  **topics from Code Development, Pentest, Web/App Development, Data Science, OS Testing and Theorical Physics.**
+- 📊 I'm working more in the  **topics from Code Development, Computer Circuit's, Web/App Development, Data Science, OS Testing and Theorical Physics.**
 
 - 🌱 I’m Researcher in the **Astrophysics, String Theory, Quantum Theory, CFD, Modern Physics, Discret Math.**
 

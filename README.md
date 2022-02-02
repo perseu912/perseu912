@@ -39,7 +39,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me **perseu912@gmail.com**
+- 📫 How to reach me **slimchatuba@gmail.com**
 
 - ⚡ Fun fact **I work for a best development from society programmer in the world and go to the GYM very often, and I love a beautiful and genius girl.**
 

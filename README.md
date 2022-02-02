@@ -22,9 +22,7 @@
 
  - [GWaves](https://pypi.org/project/gwaves 'A lib from python for works with gravitational waves data') <img src='https://img.shields.io/pypi/v/gwaves'><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/gwaves"><img alt="PyPI - License" src="https://img.shields.io/pypi/l/gwaves?color=brightgreen">
   
- - [Qfunction](https://pypi.org/project/qfunction 'for works in non-extensives algebra') <img src='https://img.shields.io/pypi/v/qfunction'><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/qfunction"><img alt="PyPI - License" src="https://img.shields.io/pypi/l/qfunction?color=brightgreen">
-  
- - [CovidBr](https://pypi.org/project/covidbr) <img src='https://img.shields.io/pypi/v/covidbr'><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/covidbr">
+
   
   
   

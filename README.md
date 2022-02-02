@@ -17,7 +17,7 @@
   
  - [NOAAWC](https://pypi.org/project/noaawc 'a lib in pyhon for works with dataset from nooa org') <img src='https://img.shields.io/pypi/v/noaawc'><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/noaawc"><img alt="PyPI - License" src="https://img.shields.io/pypi/l/noaawc">
  
- - [NOAWClg](https://pypi.org/project/noawclg 'a light lib version from noaawc') <img src='https://img.shields.io/pypi/v/noawclg'><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dw/noawclg"><img alt="PyPI - License" src="https://img.shields.io/pypi/l/noawclg">
+ - [NOAWClg](https://pypi.org/project/noawclg 'a light lib version from noaawc') <img src='https://img.shields.io/pypi/v/noawclg'><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/noawclg"><img alt="PyPI - License" src="https://img.shields.io/pypi/l/noawclg">
 
 
  - [GWaves](https://pypi.org/project/gwaves 'A lib from python for works with gravitational waves data') <img src='https://img.shields.io/pypi/v/gwaves'><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/gwaves"><img alt="PyPI - License" src="https://img.shields.io/pypi/l/gwaves?color=brightgreen">

@@ -6,8 +6,9 @@
 
   
 <div>
-  <a href="https://www.instagram.com/reynan_dos_santts" target="_blank"><img src="https://img.shields.io/badge/reynandossants-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/reinan-bezerra-2ab037202/" target="_blank"><img src="https://img.shields.io/badge/reinan_sants-Twitter-%230277B1?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/reynan_dos_santts" target="_blank"><img src="https://img.shields.io/badge/Instagram-reynandossants-red?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/reinan-bezerra-2ab037202/" target="_blank"><img src="https://img.shields.io/badge/twitter-bezerrareinan-%230277B1?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
+  <a href="https://medium.com/@reinan.bezerra" target="_blank"><img src="https://img.shields.io/badge/Medium-Reinan_Bezerra-black?style=for-the-badge&logo=medium&logoColor=white?color=black" target="_blank"></a> 
 
 ## my Lib's/Project's on the [Pypi](https://pypi.org):
 

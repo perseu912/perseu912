@@ -8,15 +8,20 @@
 <div> 
   <a href="https://www.youtube.com/channel/UCdXIsHEtUUOQthqylhEjFRg" target="_blank"><img src="https://img.shields.io/badge/Reinan_Br-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/reynan_dos_santts" target="_blank"><img src="https://img.shields.io/badge/reynandossants-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:perseu912@gmail.com"><img src="https://img.shields.io/badge/perseu912-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/reinan-bezerra-2ab037202/" target="_blank"><img src="https://img.shields.io/badge/Reinan-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/reinan-bezerra-2ab037202/" target="_blank"><img src="https://img.shields.io/badge/reinan_sants-Twitter-%230277B1?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
 
 ## my Lib's/Project's on the [Pypi](https://pypi.org):
 
- - [Candphy](https://pypi.org/project/candphy 'for physics works')
+ - [TubeMp3](https://pypi.org/project/tubemp3 'a lib for get music from youtube in high quality')
   
- - [Toddy](https://pypi.org/project/toddy 'for development in python')
+ - [GetPdf](https://pypi.org/project/getpdf 'search and download for PDF"s')
+  
+ - [NOAAWC](https://pypi.org/project/noaawc 'a lib in pyhon for works with dataset from nooa org')
+ 
+ - [NOAWClg](https://pypi.org/project/noawclg 'a light lib version from noaawc')
+
+ - [GWaves](https://pypi.org/project/gwaves 'A lib from python for works with gravitational waves data')
   
  - [Qfunction](https://pypi.org/project/qfunction 'for works in non-extensives algebra')
   

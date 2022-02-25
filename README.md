@@ -10,7 +10,9 @@
   <a href="https://www.linkedin.com/in/reinan-bezerra-2ab037202/" target="_blank"><img src="https://img.shields.io/badge/twitter-bezerrareinan-%230277B1?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
   <a href="https://medium.com/@reinan.bezerra" target="_blank"><img src="https://img.shields.io/badge/Medium-Reinan_Bezerra-black?style=for-the-badge&logo=medium&logoColor=white?color=black" target="_blank"></a> 
 
-## my Lib's/Project's on the [Pypi](https://pypi.org):
+# my Project's 
+  
+## on the [Pypi](https://pypi.org):
 
  - [TubeMp3](https://pypi.org/project/tubemp3 'a lib for get music from youtube in high quality') <img src='https://img.shields.io/pypi/v/tubemp3'><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/tubemp3"><img alt="PyPI - License" src="https://img.shields.io/pypi/l/tubemp3?color=brightgreen">
   
@@ -24,8 +26,23 @@
  - [GWaves](https://pypi.org/project/gwaves 'A lib from python for works with gravitational waves data') <img src='https://img.shields.io/pypi/v/gwaves'><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/gwaves"><img alt="PyPI - License" src="https://img.shields.io/pypi/l/gwaves?color=brightgreen">
   
 
+## The [Conda](https://anaconda.org):
+
+## The Ubuntu:
+
+## The [NPMjs](https://npmjs.com): 
   
+## The API's:
   
+## The Site's:
+
+## The App's:  
+
+## The Bot's:
+  
+## The Artcile's:
+  
+## The Research's science:
   
 ## 🙋‍♂️ About Me
 

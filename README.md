@@ -31,17 +31,21 @@
 <!-- ## The Ubuntu: -->
 
 ### The [NPMjs](https://www.npmjs.com/~reinan912 'Reinan912 - npm'):
-#### ____________________________________________________________________________
+#### ___________________________________________________________________________________________
 ## Other Project's 
-### The API's:
   
 ### The Site's:
+  - [SertãoScorpius](https://github.com/perseu912/sertaoscorpius) - A site for the Scorpius Club Astronomy
 
-### The App's:  
+### The API's:
+  - [GetMusic](https://github.com/perseu912/work_api) - get music data from youtube (youtube-dl)
 
 ### The Bot's:
+  - [InstaBot for Publish Astronomy](https://github.com/perseu912/insta_bot) - for the Astronomy Club (in instapy Lib)
+  - [EinsteinBot for Zap ](https://github.com/perseu912/einstein_bot) - in venomjs
   
 ### The Artcile's:
+  - [CovidBr](https://medium.com/@reinan.bezerra/usando-a-biblioteca-do-python-covidbr-para-an%C3%A1lise-da-covid-19-em-cidades-brasileiras-cb67c89c385d) - Usando a biblioteca do python covidbr para análise da covid-19 em cidades brasileiras
   
 ### The Research's science:
   

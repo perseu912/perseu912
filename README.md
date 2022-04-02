@@ -48,6 +48,11 @@
   - [CovidBr](https://medium.com/@reinan.bezerra/usando-a-biblioteca-do-python-covidbr-para-an%C3%A1lise-da-covid-19-em-cidades-brasileiras-cb67c89c385d) - Usando a biblioteca do python covidbr para análise da covid-19 em cidades brasileiras
   
 ### The Research's science:
+  - [Modelagem epidemiológica da COVID-19 nas cidades Petrolina-PE e Juazeiro-BA](https://github.com/gpftc/covid_br) - library for data mining about covid-19 in Brazilian cities
+  - [Aplicações de uma estrutura algébrica q-deformada em teoria da informação: portas quânticas generalizadas](https://github.com/gpftc/qfunction) - Library for researcher with statistics and mechanics equation non-extensive 
+  - [Visualizar	O SISTEMA DE TRANSPORTE COLETIVO EM PETROLINA ANALISADO ATRAVÉS DA TEORIA DE REDES COMPLEXAS](https://github.com/gpftc/bus_net_if) - a complex network from bus drive on if-sertão-petrolina-PE
+  - [Dinâmica de fluidos computacional: análise dos efeitos da velocidade de corrente e de poluentes na população de macrófitas aquáticas no trecho urbano do rio São Francisco em Petrolina-PE](https://github.com/gpftc/bus_net_if) - a complex network from bus drive on if-sertão-petrolina-PE
+  
   
 ## 🙋‍♂️ About Me
 

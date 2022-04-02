@@ -12,7 +12,7 @@
 
 ## my Project's 
   
-### on the [Pypi](https://pypi.org):
+### on the [Pypi](https://pypi.org/user/Reinan_Br/ 'Reinan Br. - Pipy'):
 
  - [TubeMp3](https://pypi.org/project/tubemp3 'a lib for get music from youtube in high quality') <img src='https://img.shields.io/pypi/v/tubemp3'><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/tubemp3"><img alt="PyPI - License" src="https://img.shields.io/pypi/l/tubemp3?color=brightgreen">
   
@@ -30,8 +30,9 @@
 
 <!-- ## The Ubuntu: -->
 
-### The [NPMjs](https://npmjs.com):
-  
+### The [NPMjs](https://www.npmjs.com/~reinan912 'Reinan912 - npm'):
+#### ____________________________________________________________________________
+## Other Project's 
 ### The API's:
   
 ### The Site's:

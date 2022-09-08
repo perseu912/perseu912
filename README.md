@@ -6,12 +6,37 @@
 
   
 <div>
-  <a href="https://www.instagram.com/reynan_dos_santts" target="_blank"><img src="https://img.shields.io/badge/Instagram-reynandossants-red?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/reinanbr_" target="_blank"><img src="https://img.shields.io/badge/Instagram-reinanbr_-red?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/reinan-bezerra-2ab037202/" target="_blank"><img src="https://img.shields.io/badge/twitter-bezerrareinan-%230277B1?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
   <a href="https://medium.com/@reinan.bezerra" target="_blank"><img src="https://img.shields.io/badge/Medium-Reinan_Bezerra-black?style=for-the-badge&logo=medium&logoColor=white?color=black" target="_blank"></a> 
 
 
+
+## my Project's 
+  
+### on the [Pypi](https://pypi.org/user/Reinan_Br/ 'Reinan Br. - Pipy'):
+
+ - [TubeMp3](https://pypi.org/project/tubemp3 'a lib for get music from youtube in high quality') <img src='https://img.shields.io/pypi/v/tubemp3'><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/tubemp3"><img alt="PyPI - License" src="https://img.shields.io/pypi/l/tubemp3?color=brightgreen">
+  
+ - [GetPdf](https://pypi.org/project/getpdf 'search and download for PDF"s') <img src='https://img.shields.io/pypi/v/getpdf'><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/getpdf"><img alt="PyPI - License" src="https://img.shields.io/pypi/l/getpdf?color=brightgreen">
+  
+ - [NOAAWC](https://pypi.org/project/noaawc 'a lib in pyhon for works with dataset from nooa org') <img src='https://img.shields.io/pypi/v/noaawc'><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/noaawc"><img alt="PyPI - License" src="https://img.shields.io/pypi/l/noaawc">
+ 
+ - [NOAWClg](https://pypi.org/project/noawclg 'a light lib version from noaawc') <img src='https://img.shields.io/pypi/v/noawclg'><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/noawclg"><img alt="PyPI - License" src="https://img.shields.io/pypi/l/noawclg">
+
+
+ - [GWaves](https://pypi.org/project/gwaves 'A lib from python for works with gravitational waves data') <img src='https://img.shields.io/pypi/v/gwaves'><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/gwaves"><img alt="PyPI - License" src="https://img.shields.io/pypi/l/gwaves?color=brightgreen">
+  
+
+<!-- ## The Ubuntu: -->
+
+### The [NPMjs](https://www.npmjs.com/~reinan912 'Reinan912 - npm'):
+#### ___________________________________________________________________________________________
+
+
+
 ## Other Project's 
+   
   
 ### The Site's:
   - [SertãoScorpius](https://github.com/reinanbr/sertaoscorpius) - A site for the Scorpius Club Astronomy
@@ -35,28 +60,6 @@
   - [Dinâmica de fluidos computacional: análise dos efeitos da velocidade de corrente e de poluentes na população de macrófitas aquáticas no trecho urbano do rio São Francisco em Petrolina-PE](https://github.com/gpftc/bus_net_if) - a complex network from bus drive on if-sertão-petrolina-PE
   
 
-## my Project's 
-  
-### on the [Pypi](https://pypi.org/user/Reinan_Br/ 'Reinan Br. - Pipy'):
-
- - [TubeMp3](https://pypi.org/project/tubemp3 'a lib for get music from youtube in high quality') <img src='https://img.shields.io/pypi/v/tubemp3'><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/tubemp3"><img alt="PyPI - License" src="https://img.shields.io/pypi/l/tubemp3?color=brightgreen">
-  
- - [GetPdf](https://pypi.org/project/getpdf 'search and download for PDF"s') <img src='https://img.shields.io/pypi/v/getpdf'><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/getpdf"><img alt="PyPI - License" src="https://img.shields.io/pypi/l/getpdf?color=brightgreen">
-  
- - [NOAAWC](https://pypi.org/project/noaawc 'a lib in pyhon for works with dataset from nooa org') <img src='https://img.shields.io/pypi/v/noaawc'><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/noaawc"><img alt="PyPI - License" src="https://img.shields.io/pypi/l/noaawc">
- 
- - [NOAWClg](https://pypi.org/project/noawclg 'a light lib version from noaawc') <img src='https://img.shields.io/pypi/v/noawclg'><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/noawclg"><img alt="PyPI - License" src="https://img.shields.io/pypi/l/noawclg">
-
-
- - [GWaves](https://pypi.org/project/gwaves 'A lib from python for works with gravitational waves data') <img src='https://img.shields.io/pypi/v/gwaves'><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/gwaves"><img alt="PyPI - License" src="https://img.shields.io/pypi/l/gwaves?color=brightgreen">
-  
-
-<!-- ## The Ubuntu: -->
-
-### The [NPMjs](https://www.npmjs.com/~reinan912 'Reinan912 - npm'):
-#### ___________________________________________________________________________________________
-  
-  
 
 <!-- ## The [Conda](https://anaconda.org): -->
 ## 🙋‍♂️ About Me

@@ -47,7 +47,6 @@
   - [GetMusic](https://github.com/reinanbr/work_api) - get music data from youtube (youtube-dl)
 
 ### The Bot's:
-  - [InstaBot for Publish Astronomy](https://github.com/reinanbr/insta_bot) - for the Astronomy Club (in instapy Lib)
   - [EinsteinBot for Zap ](https://github.com/reinanbr/einstein_bot) - in venomjs
   
 ### The Artcile's:

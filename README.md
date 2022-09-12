@@ -60,7 +60,7 @@
   
 
 
-<!-- ## The [Conda](https://anaconda.org): -->
+
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **[group of physics computational](https://github.com/gpftc)**

@@ -28,7 +28,7 @@
  - [GWaves](https://pypi.org/project/gwaves 'A lib from python for works with gravitational waves data') <img src='https://img.shields.io/pypi/v/gwaves'><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/gwaves"><img alt="PyPI - License" src="https://img.shields.io/pypi/l/gwaves?color=brightgreen">
   
 
-<!-- ## The Ubuntu: -->
+
 
 ### The [NPMjs](https://www.npmjs.com/~reinan912 'Reinan912 - npm'):
 #### ___________________________________________________________________________________________

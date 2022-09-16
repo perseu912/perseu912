@@ -76,7 +76,7 @@
 - ⚡ Fun fact **I work for a best development from society programmer in the world and go to the GYM very often, and I love a beautiful and genius girl.**
 
 
-<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=perseu912&repo=iara&theme=buefy)](https://github.com/mhankbarbar/termux-wabot) -->
+<!-- 
 ![](https://github-profile-trophy.vercel.app/?username=gpftc&row=2&column=3)
 
 

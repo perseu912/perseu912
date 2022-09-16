@@ -101,7 +101,7 @@
     
 </p>
     
-
+<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=perseu912&repo=iara&theme=buefy)](https://github.com/mhankbarbar/termux-wabot) -->
 
 <p align="center">
     <a href="https://github.com/reinanbr/github-readme-streak-stats">

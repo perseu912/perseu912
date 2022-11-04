@@ -16,11 +16,11 @@
   
 <!--### on the [Pypi](https://pypi.org/user/Reinan_Br/ 'Reinan Br. - Pipy'):-->
 
- - [TubeMp3](https://pypi.org/project/tubemp3 'a lib for get music from youtube in high quality') <img src='https://img.shields.io/pypi/v/tubemp3'><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/tubemp3"><img alt="PyPI - License" src="https://img.shields.io/pypi/l/tubemp3?color=brightgreen">
+ - [TubeMp3](https://github.com/reinanbr/tubemp3 'a lib for get music from youtube in high quality') <a href='https://pypi.org/project/tubemp3'><img src='https://img.shields.io/pypi/v/tubemp3'></a><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/tubemp3"><img alt="PyPI - License" src="https://img.shields.io/pypi/l/tubemp3?color=brightgreen">
   
- - [GetPdf](https://pypi.org/project/getpdf 'search and download for PDF"s') <img src='https://img.shields.io/pypi/v/getpdf'><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/getpdf"><img alt="PyPI - License" src="https://img.shields.io/pypi/l/getpdf?color=brightgreen">
+ - [GetPdf](https://github.com/reinanbr/getpdf 'search and download for PDF"s') <img src='https://img.shields.io/pypi/v/getpdf'><a href='https://pypi.org/project/getpdf'><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/getpdf"></a><img alt="PyPI - License" src="https://img.shields.io/pypi/l/getpdf?color=brightgreen">
 
- - [GWaves](https://pypi.org/project/gwaves 'A lib from python for works with gravitational waves data') <img src='https://img.shields.io/pypi/v/gwaves'><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/gwaves"><img alt="PyPI - License" src="https://img.shields.io/pypi/l/gwaves?color=brightgreen">
+ - [GWaves](https://github.com/reinanbr/gwaves 'A lib from python for works with gravitational waves data') <a href='https://pypi.org/project/gwaves'><img src='https://img.shields.io/pypi/v/gwaves'><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/gwaves"></a><img alt="PyPI - License" src="https://img.shields.io/pypi/l/gwaves?color=brightgreen">
   
 
 

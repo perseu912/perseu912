@@ -11,38 +11,36 @@
   <a href="https://medium.com/@reinan.bezerra" target="_blank"><img src="https://img.shields.io/badge/Medium-Reinan_Bezerra-black?style=for-the-badge&logo=medium&logoColor=white?color=black" target="_blank"></a> 
 
 
-
-## my Project's 
+# Python 3.9+
+## Lib's
   
-### on the [Pypi](https://pypi.org/user/Reinan_Br/ 'Reinan Br. - Pipy'):
+<!--### on the [Pypi](https://pypi.org/user/Reinan_Br/ 'Reinan Br. - Pipy'):-->
 
  - [TubeMp3](https://pypi.org/project/tubemp3 'a lib for get music from youtube in high quality') <img src='https://img.shields.io/pypi/v/tubemp3'><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/tubemp3"><img alt="PyPI - License" src="https://img.shields.io/pypi/l/tubemp3?color=brightgreen">
   
  - [GetPdf](https://pypi.org/project/getpdf 'search and download for PDF"s') <img src='https://img.shields.io/pypi/v/getpdf'><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/getpdf"><img alt="PyPI - License" src="https://img.shields.io/pypi/l/getpdf?color=brightgreen">
-  
-
-
-
-
 
  - [GWaves](https://pypi.org/project/gwaves 'A lib from python for works with gravitational waves data') <img src='https://img.shields.io/pypi/v/gwaves'><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/gwaves"><img alt="PyPI - License" src="https://img.shields.io/pypi/l/gwaves?color=brightgreen">
   
 
 
-## Other Project's 
-   
-  
-### The Site's:
+
+## The Site's:
   - [SertãoScorpius](https://github.com/reinanbr/sertaoscorpius) - A site for the Scorpius Club Astronomy
   - [IFSertão-Radio](https://github.com/reinanbr/radioif) - webapp for the radio from ifsertaope
   - [RubyNews](https://github.com/reinanbr/rubynews) - a site for news from now in the world
 
-### The API's:
+
+
+## The API's:
   - [GetMusic](https://github.com/reinanbr/work_api) - get music data from youtube (youtube-dl)
 
-### The Bot's:
+## The Bot's:
   - [EinsteinBot for Zap ](https://github.com/reinanbr/einstein_bot) - in venomjs
-  
+
+
+## Other Project's 
+
 ### The Artcile's:
   - [CovidBr](https://medium.com/@reinan.bezerra/usando-a-biblioteca-do-python-covidbr-para-an%C3%A1lise-da-covid-19-em-cidades-brasileiras-cb67c89c385d) - Usando a biblioteca do python covidbr para análise da covid-19 em cidades brasileiras
   
@@ -52,8 +50,90 @@
   - [Visualizar	O SISTEMA DE TRANSPORTE COLETIVO EM PETROLINA ANALISADO ATRAVÉS DA TEORIA DE REDES COMPLEXAS](https://github.com/gpftc/bus_net_if) - a complex network from bus drive on if-sertão-petrolina-PE
   - [Dinâmica de fluidos computacional: análise dos efeitos da velocidade de corrente e de poluentes na população de macrófitas aquáticas no trecho urbano do rio São Francisco em Petrolina-PE](https://github.com/gpftc/bus_net_if) - a complex network from bus drive on if-sertão-petrolina-PE
   
+<hr>
+
+<br>
+
+# Nodejs
+
+## Sites
+
+### express (js)
+
+### React (js)
+
+## V8
+
+## Lib's
 
 
+## bot's (js)
+
+
+<hr>
+
+<br>
+
+# Dart
+
+## Projects
+
+## Libs
+
+<hr>
+
+<br>
+
+# C/C++
+
+## Machine Learning
+
+## System
+
+## Math
+
+
+<hr>
+
+<br>
+
+# Rust
+
+## Machine Learning
+
+## System
+
+## math
+
+## system socket
+
+
+<hr>
+
+<br>
+
+# Carbon 
+
+## Machine Learning
+
+## Math
+
+## Sockets
+
+<hr>
+
+<br>
+
+
+# Bash
+
+## Sockets
+
+## system
+
+<hr>
+
+<br>
 
 ## 🙋‍♂️ About Me
 

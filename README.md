@@ -16,39 +16,39 @@
   
 <!--### on the [Pypi](https://pypi.org/user/Reinan_Br/ 'Reinan Br. - Pipy'):-->
 
- - [TubeMp3](https://github.com/reinanbr/tubemp3 'a lib for get music from youtube in high quality') <a href='https://pypi.org/project/tubemp3'><img src='https://img.shields.io/pypi/v/tubemp3'></a><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/tubemp3"><img alt="PyPI - License" src="https://img.shields.io/pypi/l/tubemp3?color=brightgreen">
+ - [TubeMp3](https://github.com/reinanbr/tubemp3 'a lib for get music from youtube in high quality (Jan 2022)') <a href='https://pypi.org/project/tubemp3'><img src='https://img.shields.io/pypi/v/tubemp3'></a><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/tubemp3"><img alt="PyPI - License" src="https://img.shields.io/pypi/l/tubemp3?color=brightgreen">
   
- - [GetPdf](https://github.com/reinanbr/getpdf 'search and download for PDF"s') <img src='https://img.shields.io/pypi/v/getpdf'><a href='https://pypi.org/project/getpdf'><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/getpdf"></a><img alt="PyPI - License" src="https://img.shields.io/pypi/l/getpdf?color=brightgreen">
+ - [GetPdf](https://github.com/reinanbr/getpdf 'search and download for PDF"s (Dec 2021)') <img src='https://img.shields.io/pypi/v/getpdf'><a href='https://pypi.org/project/getpdf'><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/getpdf"></a><img alt="PyPI - License" src="https://img.shields.io/pypi/l/getpdf?color=brightgreen">
 
- - [GWaves](https://github.com/reinanbr/gwaves 'A lib from python for works with gravitational waves data') <a href='https://pypi.org/project/gwaves'><img src='https://img.shields.io/pypi/v/gwaves'><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/gwaves"></a><img alt="PyPI - License" src="https://img.shields.io/pypi/l/gwaves?color=brightgreen">
+ - [GWaves](https://github.com/reinanbr/gwaves 'A lib from python for works with gravitational waves data (Nov 2021)') <a href='https://pypi.org/project/gwaves'><img src='https://img.shields.io/pypi/v/gwaves'><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/gwaves"></a><img alt="PyPI - License" src="https://img.shields.io/pypi/l/gwaves?color=brightgreen">
   
 
 
 
 ## The Site's:
-  - [SertãoScorpius](https://github.com/reinanbr/sertaoscorpius) - A site for the Scorpius Club Astronomy
-  - [IFSertão-Radio](https://github.com/reinanbr/radioif) - webapp for the radio from ifsertaope
-  - [RubyNews](https://github.com/reinanbr/rubynews) - a site for news from now in the world
+  - [SertãoScorpius](https://github.com/reinanbr/sertaoscorpius) - A site for the Scorpius Club Astronomy (Out 2021)
+  - [IFSertão-Radio](https://github.com/reinanbr/radioif) - webapp for the radio from ifsertaope (Fev 2022)
+  - [RubyNews](https://github.com/reinanbr/rubynews) - a site for news from now in the world (Jan 2022)
 
 
 
 ## The API's:
-  - [GetMusic](https://github.com/reinanbr/work_api) - get music data from youtube (youtube-dl)
+  - [GetMusic](https://github.com/reinanbr/work_api) - get music data from youtube (youtube-dl) (Nov 2021)
 
 ## The Bot's:
-  - [EinsteinBot for Zap ](https://github.com/reinanbr/einstein_bot) - in venomjs
+  - [EinsteinBot for Zap ](https://github.com/reinanbr/einstein_bot) - in venomjs (Nov 2021)
 
 
 ## Other Project's 
 
 ### The Artcile's:
-  - [CovidBr](https://medium.com/@reinan.bezerra/usando-a-biblioteca-do-python-covidbr-para-an%C3%A1lise-da-covid-19-em-cidades-brasileiras-cb67c89c385d) - Usando a biblioteca do python covidbr para análise da covid-19 em cidades brasileiras
+  - [CovidBr](https://medium.com/@reinan.bezerra/usando-a-biblioteca-do-python-covidbr-para-an%C3%A1lise-da-covid-19-em-cidades-brasileiras-cb67c89c385d) - Usando a biblioteca do python covidbr para análise da covid-19 em cidades brasileiras (Dec 2021)
   
 ### The Research's science:
-  - [Modelagem epidemiológica da COVID-19 nas cidades Petrolina-PE e Juazeiro-BA](https://github.com/gpftc/covid_br) - library for data mining about covid-19 in Brazilian cities
-  - [Aplicações de uma estrutura algébrica q-deformada em teoria da informação: portas quânticas generalizadas](https://github.com/gpftc/qfunction) - Library for researcher with statistics and mechanics equation non-extensive 
-  - [Visualizar	O SISTEMA DE TRANSPORTE COLETIVO EM PETROLINA ANALISADO ATRAVÉS DA TEORIA DE REDES COMPLEXAS](https://github.com/gpftc/bus_net_if) - a complex network from bus drive on if-sertão-petrolina-PE
-  - [Dinâmica de fluidos computacional: análise dos efeitos da velocidade de corrente e de poluentes na população de macrófitas aquáticas no trecho urbano do rio São Francisco em Petrolina-PE](https://github.com/gpftc/bus_net_if) - a complex network from bus drive on if-sertão-petrolina-PE
+  - [Modelagem epidemiológica da COVID-19 nas cidades Petrolina-PE e Juazeiro-BA](https://github.com/gpftc/covid_br) - library for data mining about covid-19 in Brazilian cities (Jan 2021)
+  - [Aplicações de uma estrutura algébrica q-deformada em teoria da informação: portas quânticas generalizadas](https://github.com/gpftc/qfunction) - Library for researcher with statistics and mechanics equation non-extensive (Jun 2021)
+  - [Visualizar	O SISTEMA DE TRANSPORTE COLETIVO EM PETROLINA ANALISADO ATRAVÉS DA TEORIA DE REDES COMPLEXAS](https://github.com/gpftc/bus_net_if) - a complex network from bus drive on if-sertão-petrolina-PE (Jul 2020)
+  - [Dinâmica de fluidos computacional: análise dos efeitos da velocidade de corrente e de poluentes na população de macrófitas aquáticas no trecho urbano do rio São Francisco em Petrolina-PE](https://github.com/gpftc/bus_net_if) - a complex network from bus drive on if-sertão-petrolina-PE (Aug 2020)
   
 <hr>
 
@@ -59,6 +59,12 @@
 ## Sites
 
 ### express (js)
+
+- [hiperLink](https://github.com/reinanbr/hiperLink) - a site with question of physics (Sep 2019)
+
+- [chat in socketIo](https://github.com/reinanbr/chat) - my first chat in socketIo (Jul 2019)
+
+- [gugoolplex](https:/.github.com/reinanbr/gugoolplex) - a site for search with jquery in frontEnd and API google in backEnd (Sep 2019)
 
 ### React (js)
 

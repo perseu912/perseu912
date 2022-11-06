@@ -36,8 +36,8 @@
   - [GetMusic](https://github.com/reinanbr/work_api) - get music data from youtube (youtube-dl) (Nov 2021)
 
 ## The Bot's:
-  - [EinsteinBot for Zap ](https://github.com/reinanbr/einstein_bot) - in venomjs (Nov 2021)
 
+- [Bot Pix Service for Telegram](https://github.com/reinanbr/botpixservice) - a base template of a bot that I use for sale of services plan on telegram with SQL data
 
 ## Other Project's 
 
@@ -74,7 +74,7 @@
 
 
 ## bot's (js)
-
+  - [EinsteinBot for Zap ](https://github.com/reinanbr/einstein_bot) - in venomjs (Nov 2021)
 
 <hr>
 

@@ -26,6 +26,7 @@
 
 
 ## The Site's:
+  - [Exogame](https://github.com/reinanbr/exogame) - A site of TCC for game with exoplanets (Sep 2022)
   - [SertãoScorpius](https://github.com/reinanbr/sertaoscorpius) - A site for the Scorpius Club Astronomy (Out 2021)
   - [IFSertão-Radio](https://github.com/reinanbr/radioif) - webapp for the radio from ifsertaope (Fev 2022)
   - [RubyNews](https://github.com/reinanbr/rubynews) - a site for news from now in the world (Jan 2022)

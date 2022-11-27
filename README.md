@@ -42,7 +42,7 @@
 
 ## Other Project's 
 
-### The Artcile's:
+### The Artcile's PIBITI/PIBIC/CNPq:
   - [CovidBr](https://medium.com/@reinan.bezerra/usando-a-biblioteca-do-python-covidbr-para-an%C3%A1lise-da-covid-19-em-cidades-brasileiras-cb67c89c385d) - Usando a biblioteca do python covidbr para análise da covid-19 em cidades brasileiras (Dec 2021)
   
 ### The Research's science:
@@ -51,6 +51,15 @@
   - [Visualizar	O SISTEMA DE TRANSPORTE COLETIVO EM PETROLINA ANALISADO ATRAVÉS DA TEORIA DE REDES COMPLEXAS](https://github.com/gpftc/bus_net_if) - a complex network from bus drive on if-sertão-petrolina-PE (Jul 2020)
   - [Dinâmica de fluidos computacional: análise dos efeitos da velocidade de corrente e de poluentes na população de macrófitas aquáticas no trecho urbano do rio São Francisco em Petrolina-PE](https://github.com/gpftc/bus_net_if) - a complex network from bus drive on if-sertão-petrolina-PE (Aug 2020)
   
+  
+## Science Reseach's 
+
+### Astronomy and Astrophysics
+
+### Sthatistical Mechanics
+
+### Quantum Mechanics
+ 
 <hr>
 
 <br>

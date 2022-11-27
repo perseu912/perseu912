@@ -83,8 +83,8 @@
 
 # FrontEnd
 
-## Simulationws 
-   - [gravity move](https://github.com/reinanbr/gravity_move)
+## Simulations 
+   - [gravity move](https://github.com/reinanbr/gravity_move) (in p5js)
    
    
 <hr>

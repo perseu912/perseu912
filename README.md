@@ -119,6 +119,12 @@
 ### Sthatistical Mechanics
 
 ### Quantum Mechanics
+
+### Weather
+   
+### signals and waves
+   
+### processing image's
  
 <hr>
 
@@ -165,7 +171,7 @@
 <hr>
 
 <br>
-
+<!-- 
 # Dart
 
 ## Projects
@@ -174,7 +180,7 @@
 
 <hr>
 
-<br>
+<br> -->
 
 # C/C++
 
@@ -199,7 +205,7 @@
 
 ## system socket
 
-
+<!-- 
 <hr>
 
 <br>
@@ -211,12 +217,12 @@
 ## Math
 
 ## Sockets
-
+ -->
 <hr>
 
 <br>
 
-
+<!-- 
 # Bash
 
 ## Sockets
@@ -225,7 +231,7 @@
 
 <hr>
 
-<br>
+<br> -->
    
   ##
 <!--  

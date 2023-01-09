@@ -1,5 +1,5 @@
 <h1 align='center'>
-<img align="center" height="280" src="https://raw.githubusercontent.com/perseu912/perseu912/main/img/logo8_4_14346.png"/>
+<img align="center" height="200" src="https://raw.githubusercontent.com/perseu912/perseu912/main/img/logo8_4_14346.png"/>
   <br/> I'm Reinan Br' 
 </h1>
 

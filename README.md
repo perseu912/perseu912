@@ -1,6 +1,6 @@
 <h1 align='center'>
 <img align="center" height="200" src="https://raw.githubusercontent.com/perseu912/perseu912/main/img/logo8_4_14346.png"/>
-  <br/> I'm Reinan Br' 
+  <br/>
 </h1>
 
 
@@ -64,8 +64,8 @@
 
 
  <div>
-  <a href="https://github.com/reinanbr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reinanbr&show_icons=true&theme=dracula&show_owner=true&include_all_commits=true&count_private=true"/>
+  <!-- <a href="https://github.com/reinanbr">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reinanbr&show_icons=true&theme=dracula&show_owner=true&include_all_commits=true&count_private=true"/> -->
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reinanbr&layout=compact&langs_count=7&theme=dracula"/> -->
 </div>
  

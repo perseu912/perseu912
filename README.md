@@ -57,16 +57,16 @@
 <!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=perseu912&repo=iara&theme=buefy)](https://github.com/mhankbarbar/termux-wabot) -->
 
 <p align="center">
-    <a href="https://github.com/reinanbr/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=reinanbr&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+<!--     <a href="https://github.com/reinanbr/github-readme-streak-stats">
+<!--         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=reinanbr&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/> -->
+    </a> -->
 </p>
 
 
  <div>
-  <a href="https://github.com/reinanbr">
+<!--   <a href="https://github.com/reinanbr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reinanbr&show_icons=true&theme=dracula&show_owner=true&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reinanbr&layout=compact&langs_count=7&theme=dracula"/> 
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reinanbr&layout=compact&langs_count=7&theme=dracula"/>  -->
 </div>
  
  

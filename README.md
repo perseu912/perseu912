@@ -84,7 +84,8 @@
    
    
    - [noawclg](https://github.com/reinanbr/noawclg "working with data NOAA/NASA climate") <a href='https://pypi.org/project/noawclg'><img src='https://img.shields.io/pypi/v/noawclg'><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/noawclg"></a><img alt="PyPI - License" src="https://img.shields.io/pypi/l/noawclg?color=brightgreen">
-   
+
+   - [rocketlc](https://github.com/reinanbr/rocketlc "working with data launch rocket's schedule") <a href='https://pypi.org/project/rocketlc'><img src='https://img.shields.io/pypi/v/rocketlc'><img alt="CircleCI" src="https://img.shields.io/circleci/build/gh/reinanbr/rocketlc"><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/rocketlc"></a><img alt="PyPI - License" src="https://img.shields.io/pypi/l/rocketlc?color=brightgreen">
    
    - [TubeMp3](https://github.com/reinanbr/tubemp3 'a lib for get music from youtube in high quality (Jan 2022)') <a href='https://pypi.org/project/tubemp3'><img src='https://img.shields.io/pypi/v/tubemp3'></a><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/tubemp3"><img alt="PyPI - License" src="https://img.shields.io/pypi/l/tubemp3?color=brightgreen">
   

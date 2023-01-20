@@ -8,9 +8,6 @@
 
 ![Metrics](https://metrics.lecoq.io/reinanbr?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&lines=1&isocalendar=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=America%2FLos_Angeles)  
 <div>
-  <a href="https://www.instagram.com/reinanbr_" target="_blank"><img src="https://img.shields.io/badge/Instagram-reinanbr_-red?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/reinan-bezerra-2ab037202/" target="_blank"><img src="https://img.shields.io/badge/twitter-bezerrareinan-%230277B1?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
-  <a href="https://medium.com/@reinan.bezerra" target="_blank"><img src="https://img.shields.io/badge/Medium-Reinan_Bezerra-black?style=for-the-badge&logo=medium&logoColor=white?color=black" target="_blank"></a> 
 
 
 
@@ -71,6 +68,9 @@
  
  
 <br/>
+  <a href="https://www.instagram.com/reinanbr_" target="_blank"><img src="https://img.shields.io/badge/Instagram-reinanbr_-red?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/reinan-bezerra-2ab037202/" target="_blank"><img src="https://img.shields.io/badge/twitter-bezerrareinan-%230277B1?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
+  <a href="https://medium.com/@reinan.bezerra" target="_blank"><img src="https://img.shields.io/badge/Medium-Reinan_Bezerra-black?style=for-the-badge&logo=medium&logoColor=white?color=black" target="_blank"></a> 
 
   
 # Python 3.10+

@@ -26,33 +26,6 @@
 - ⚡ Fun fact **I work for a best development from society programmer in the world and go to the GYM very often, and I love a beautiful and genius girl.**
  -->
 
-<!-- 
-![](https://github-profile-trophy.vercel.app/?username=gpftc&row=2&column=3)
-
-
-## 🚀 Languages and Tools:
-
-<p align="left">
-  <a><img src="https://img.icons8.com/color/48/000000/linux--v1.png"/></a>
-    <a href="https://www.python.org" target="_blank" alt='python3+'> <img src="https://img.icons8.com/color/48/000000/python.png" /> </a>
-    <a href="https://c.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
-    <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a> 
- <a href="https://postman.com" target="_blank"> <img src="https://img.icons8.com/nolan/64/ibm.png"/></a> 
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-  <a><img src="https://img.icons8.com/color/48/000000/latex.png"/></a>
-  <a><img src="https://img.icons8.com/color/48/000000/flutter.png"/><a>
-   <a><img src="https://img.icons8.com/color/50/000000/dart.png"/></a>
-    <a><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/></a>
-    <a><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/><a>
-  <a><img src="https://img.icons8.com/color/48/000000/css3.png"/><a>
-    <a><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
-    <a><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
-    <img src="https://img.icons8.com/ios/50/000000/flask.png"/>
-    
-</p>
-    
-<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=perseu912&repo=iara&theme=buefy)](https://github.com/mhankbarbar/termux-wabot) -->
-
 <p align="center">
      <a href="https://github.com/reinanbr/github-readme-streak-stats">
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=reinanbr&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/> 
@@ -73,9 +46,31 @@
   <a href="https://medium.com/@reinan.bezerra" target="_blank"><img src="https://img.shields.io/badge/Medium-Reinan_Bezerra-black?style=for-the-badge&logo=medium&logoColor=white?color=black" target="_blank"></a> 
 
   
+
+![](https://github-profile-trophy.vercel.app/?username=reinanbr&row=2&column=3)
+
+
+
+<!--   <a><img src="https://img.icons8.com/color/48/000000/linux--v1.png"/></a>
+    <a href="https://www.python.org" target="_blank" alt='python3+'> <img src="https://img.icons8.com/color/48/000000/python.png" /> </a>
+   <a><img src="https://img.icons8.com/color/48/000000/flutter.png"/><a>
+   <a><img src="https://img.icons8.com/color/50/000000/dart.png"/></a>
+    <a><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/></a>
+    <a><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
+    <a><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
+    <img src="https://img.icons8.com/ios/50/000000/flask.png"/>
+    <img src="https://img.icons8.com/color/48/000000/rust.png"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
+              
+      -->
+  [![My Skills](https://skillicons.dev/icons?i=rust,linux,py,fastapi,flask,dart,flutter,nodejs,typescript,javascript,react,php,sqlite)](https://skillicons.dev)
+     
+
+    
+
 # Python 3.10+
 ## Lib's
-  
+
 <!--### on the [Pypi](https://pypi.org/user/Reinan_Br/ 'Reinan Br. - Pipy'):-->
    
   
@@ -98,7 +93,6 @@
  - [GWaves](https://github.com/reinanbr/gwaves 'A lib from python for works with gravitational waves data (Nov 2021)') <a href='https://pypi.org/project/gwaves'><img src='https://img.shields.io/pypi/v/gwaves'><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/gwaves"></a><img alt="PyPI - License" src="https://img.shields.io/pypi/l/gwaves?color=brightgreen">
   
  - [NOAAWC](https://github.com/reinanbr/noaawc "working and ploting with data NOAA/NASA climate") <a href='https://pypi.org/project/noaawc'><img src='https://img.shields.io/pypi/v/noaawc'><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/noaawc"></a><img alt="PyPI - License" src="https://img.shields.io/pypi/l/noaawc?color=brightgreen">
-  
 
 <!-- 
 

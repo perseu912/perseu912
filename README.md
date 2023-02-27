@@ -99,7 +99,7 @@
    
    - [Kitano](https://github.com/reinanbr/kitano "a personal lib for development in python") <a href='https://pypi.org/project/kitano'><img src='https://img.shields.io/pypi/v/kitano'><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/kitano"></a><img alt="PyPI - License" src="https://img.shields.io/pypi/l/kitano?color=brightgreen">
    
-   <hr>
+
 <!--    
  - [GetPdf](https://github.com/reinanbr/getpdf 'search and download for PDF"s (Dec 2021)') <img src='https://img.shields.io/pypi/v/getpdf'><a href='https://pypi.org/project/getpdf'><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/getpdf"></a><img alt="PyPI - License" src="https://img.shields.io/pypi/l/getpdf?color=brightgreen">
  -->
@@ -154,12 +154,20 @@
 ### processing image's
   -->
 
-  <hr>
 
 
-# NodeJs
+# Dart
+   
+## App's Flutter
 
-## Lib's
+- [rocket schedule app](https://github.com/reinanbr/rocket_flutter) - a app for schedule from launch date's rocket
+   
+   
+   
+   
+<!-- # NodeJs
+
+## Lib's -->
 <!-- <hr>
 
 <br>

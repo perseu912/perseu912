@@ -115,6 +115,8 @@
 
 ## The openSource Site's:
   - [getporn(CumInMe)](https://github.com/reinanbr/getporn) -  a site porn, in production on <a href='https://getporn.vercel.app/'>https://getporn.vercel.app/</a>
+   
+  - [RubyNews](https://github.com/reinanbr/rubynews) - a site for news
 
 ## The openSource API's:
   - [GetMusic](https://github.com/reinanbr/work_api) - get music data from youtube (youtube-dl) 

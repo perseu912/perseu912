@@ -289,4 +289,4 @@
 </a>
 <a href="https://github.com/reinanbr?tab=followers"><img src="https://img.shields.io/github/followers/reinanbr?label=Followers&style=social" alt="GitHub Badge"></a>
 
-<img src='https://getdatausers.000webhostapp.com/index.php?file=views'>
+<img src='https://getdatausers.000webhostapp.com/index.php?file=views_github'>

@@ -74,7 +74,7 @@
 
 # Js
 ## Sites FrontEnd
- - [cardápio](https://reinanbr/cardapio/) um site que mostra o cardápio da minha faculdade no dia em questão
+ - [cardápio](https://reinanbr.github.io/cardapio/) um site que mostra o cardápio da minha faculdade no dia em questão
     
 <hr/>
   

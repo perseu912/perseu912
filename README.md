@@ -125,10 +125,12 @@
    
 
  
-## API's:
+## API's
   - [GetMusic](https://github.com/reinanbr/work_api) - get music data from youtube (youtube-dl) 
 
-## Bot's:
+## Bot's
+
+### Telegram
 
 - [Bot Pix Service for Telegram](https://github.com/reinanbr/botpixservice) - a base template of a bot that I use for sale of services plan on telegram with SQL data
    
@@ -223,7 +225,33 @@
    
 - [AssKing App](https://github.com/reinanbr/assking_flutter)
    
+
    
+   
+<hr/>
+   
+# NodeJs
+
+ 
+## bot's 
+   
+### WhatsApp
+   
+  - [EinsteinBot for Zap ](https://github.com/reinanbr/einstein_bot) - in venomjs (js)
+
+
+## Sites
+
+### express
+
+- [hiperLink](https://github.com/reinanbr/hiperLink) - a site with question of physics (js)
+
+- [chat in socketIo](https://github.com/reinanbr/chat) - my first chat in socketIo (js)
+
+- [gugoolplex](https:/.github.com/reinanbr/gugoolplex) - a site for search with jquery in frontEnd and API google in backEnd (js)
+
+### React 
+
    
    
 <!-- # NodeJs
@@ -232,8 +260,7 @@
 <!-- <hr>
 
 <br>
-
-# Nodejs
+ Nodejs
 
 ## Sites
 

@@ -76,14 +76,63 @@
 ## Sites FrontEnd
  - [cardápio](https://github.com/reinanbr/cardapio/) um site que mostra o cardápio da minha faculdade no dia em questão, <a href='https://reinanbr.github.io/cardapio/'> em produção</a> 
  
- - [](https://github.com/reinanbr/if_fisica) webApp que contém informações do meu curso de física, como horários, aulas, matérias, pdf etc... <a href='https://reinanbr.github.io/if_fisica/'> em produção</a> 
+ - [IF Física](https://github.com/reinanbr/if_fisica) webApp que contém informações do meu curso de física, como horários, aulas, matérias, pdf etc... <a href='https://reinanbr.github.io/if_fisica/'> Em produção</a> 
    
+ - [reinan.github.io](https://github.com/reinanbr/reinan.github.io) site de sites. <a href='https://reinanbr.github.io'> Em produção</a> 
+ 
+ - [site doces Ana](https://github.com/reinanbr/site_doces_ana_js)
+ 
    
+ ## simulations 
+ 
+ - [black hole particles simulation in p5js](https://github.com/reinanbr/black_hole_simu_p5js)
+ 
+ - [gravity move objects simulation in p5js](https://github.com/reinanbr/gravity_move)
+  
+   
+ ## Plugins
+   
+ - [video player](https://github.com/reinanbr/video_player_js)
+   
+  
 <hr/>
   
 
   
 # Python 3.10+
+   
+## Site's
+
+### Flask
+  - [getporn(CumInMe)](https://github.com/reinanbr/getporn) -  a site porn,
+<!--    in production on <a href='https://getporn.vercel.app/'>https://getporn.vercel.app/</a> -->
+   
+  - [RubyNews](https://github.com/reinanbr/rubynews) - a site for news
+   
+  - [Exogame](https://github.com/reinanbr/exogame) - a webgame of questions about exoplanets for my Course Conclusion Work
+
+  - [chat voice socket.io](https://github.com/reinanbr/chat_voice_flask)
+   
+  - [socket ip chat socket.io](https://github.com/reinanbr/flask_socket_ip_chat)
+   
+  - [radio socket IF](https://github.com/reinanbr/radioif)
+  
+  - [rubynews base](https://github.com/reinanbr/rubynews_flask) primordial base, for the db/api news from news of rubynews.
+ 
+### Django
+
+  - [uasd](https://github.com/reinanbr/uasd) site para administração de pessoas.
+   
+
+ 
+## API's:
+  - [GetMusic](https://github.com/reinanbr/work_api) - get music data from youtube (youtube-dl) 
+
+## Bot's:
+
+- [Bot Pix Service for Telegram](https://github.com/reinanbr/botpixservice) - a base template of a bot that I use for sale of services plan on telegram with SQL data
+   
+
 ## Lib's
 
 <!--### on the [Pypi](https://pypi.org/user/Reinan_Br/ 'Reinan Br. - Pipy'):-->
@@ -130,20 +179,8 @@
   <!-- - [RubyNews](https://github.com/reinanbr/rubynews) - a site for news from now in the world  -->
 
 
-## The openSource Site's:
-  - [getporn(CumInMe)](https://github.com/reinanbr/getporn) -  a site porn,
-<!--    in production on <a href='https://getporn.vercel.app/'>https://getporn.vercel.app/</a> -->
-   
-  - [RubyNews](https://github.com/reinanbr/rubynews) - a site for news
-   
-  - [Exogame](https://github.com/reinanbr/exogame) - a webgame of questions about exoplanets for my Course Conclusion Work
 
-## The openSource API's:
-  - [GetMusic](https://github.com/reinanbr/work_api) - get music data from youtube (youtube-dl) 
 
-## The openSource Bot's:
-
-- [Bot Pix Service for Telegram](https://github.com/reinanbr/botpixservice) - a base template of a bot that I use for sale of services plan on telegram with SQL data
 <!-- 
 ## Other Project's 
 
@@ -179,6 +216,12 @@
 ## App's Flutter
 
 - [rocket schedule app](https://github.com/reinanbr/rocket_flutter) - a app for schedule from launch date's rocket
+
+- [RubyNews App](https://github.com/reinanbr/rubynews_flutter)
+   
+- [Cardapio App](https://github.com/reinanbr/cardapio_flutter)
+   
+- [AssKing App](https://github.com/reinanbr/assking_flutter)
    
    
    

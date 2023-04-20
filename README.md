@@ -5,14 +5,18 @@
 
   ### Social
  
-  <a href="https://www.instagram.com/reinanbr_" target="_blank"><img src="https://img.shields.io/badge/Instagram-reinanbr_-darkviolet?style=for-the-badge&logo=instagram&logoColor=violet" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/reinan-bezerra-2ab037202/" target="_blank"><img src="https://img.shields.io/badge/twitter-bezerrareinan-%230277B1?style=for-the-badge&logo=twitter&logoColor=blue" target="_blank"></a> 
+
+  <a href="https://twitter.com/BezerraReinan" target="_blank"><img src="https://img.shields.io/badge/twitter-bezerrareinan-%230277B1?style=for-the-badge&logo=twitter&logoColor=blue" target="_blank"></a> 
+    <a href="https://www.instagram.com/reinanbr_" target="_blank"><img src="https://img.shields.io/badge/Instagram-reinanbr_-darkviolet?style=for-the-badge&logo=instagram&logoColor=violet" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/reinan-santos-2ab037202/" target="_blank"><img src="https://img.shields.io/badge/linkedin-reinan_bezerra-darkblue?style=for-the-badge&logo=linkedin&logoColor=darkblue" target="_blank"></a> 
   
   ### Dev
   
+<!--    <a href="https://www.buymeacoffee.com/ReinanBr" target="_blank"><img src="https://img.shields.io/badge/buymeacoffee-Reinan_Bezerra-yellow?style=for-the-badge&logo=buymeacoffee&logoColor=white?color=black" target="_blank"></a>  -->
   <a href='https://stackoverflow.com/users/13836431/reinan-br'> <img src='https://img.shields.io/badge/stackoverflow-reinan_br-red?style=for-the-badge&logo=stackoverflow&logoColor=red'/> </a>
   <a href="https://medium.com/@reinan.bezerra" target="_blank"><img src="https://img.shields.io/badge/Medium-Reinan_Bezerra-black?style=for-the-badge&logo=medium&logoColor=white?color=black" target="_blank"></a> 
-
+<!-- <a href="https://g.dev/reinanbr" target="_blank"><img src="https://img.shields.io/badge/Google_Dev-Reinan_Bezerra-blue?style=for-the-badge&logo=google&logoColor=white?color=black" target="_blank"></a> 
+   -->
   
 
 
@@ -74,7 +78,7 @@
 
 # Js
 ## Sites FrontEnd
- - [cardápio](https://github.com/reinanbr/cardapio/) um site que mostra o cardápio da minha faculdade no dia em questão, <a href='https://reinanbr.github.io/cardapio/'> em produção</a> 
+ - [cardápio](https://github.com/reinanbr/cardapio/) um site que mostra o cardápio da minha faculdade no dia em questão. <a href='https://reinanbr.github.io/cardapio/'> em produção</a> 
  
  - [IF Física](https://github.com/reinanbr/if_fisica) webApp que contém informações do meu curso de física, como horários, aulas, matérias, pdf etc... <a href='https://reinanbr.github.io/if_fisica/'> Em produção</a> 
    
@@ -119,6 +123,7 @@
   
   - [rubynews base](https://github.com/reinanbr/rubynews_flask) primordial base, for the db/api news from news of rubynews.
  
+   
 ### Django
 
   - [uasd](https://github.com/reinanbr/uasd) site para administração de pessoas.
@@ -126,20 +131,30 @@
 
  
 ## API's
-  - [GetMusic](https://github.com/reinanbr/work_api) - get music data from youtube (youtube-dl) 
+  - [Work API's test](https://github.com/reinanbr/work_api) 
+  
+  - [GetPorn](https://github.com/reinanbr/api_getporn)
+  
+  - [GwtMusic](https://github.com/reinanbr/api_music)
 
+   
 ## Bot's
 
 ### Telegram
 
-- [Bot Pix Service for Telegram](https://github.com/reinanbr/botpixservice) - a base template of a bot that I use for sale of services plan on telegram with SQL data
+- [Bot Pix Service for Telegram](https://github.com/reinanbr/botpixservice) - a base template of a bot that I use for sale of services plan on telegram with SQL data 
+
+
+### Chat API's
+   
+   - [Karina IA](https://github.com/reinanbr/ia_karina)
    
 
+   
 ## Lib's
 
 <!--### on the [Pypi](https://pypi.org/user/Reinan_Br/ 'Reinan Br. - Pipy'):-->
    
-  
  ### Science
    
    - [noawclg](https://github.com/reinanbr/noawclg "working with data NOAA/NASA climate") <a href="https://doi.org/10.5281/zenodo.7658159"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.7658159.svg" alt="DOI"></a> <a href='https://pypi.org/project/noawclg'><img src='https://img.shields.io/pypi/v/noawclg'><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/noawclg"></a><img alt="PyPI - License" src="https://img.shields.io/pypi/l/noawclg?color=brightgreen">
@@ -150,10 +165,8 @@
    
    - [CandPhy](https://github.com/reinanbr/dreams "Working science") <a href='https://pypi.org/project/candphy'><img src='https://img.shields.io/pypi/v/candphy'><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/candphy"></a><img alt="PyPI - License" src="https://img.shields.io/pypi/l/candphy?color=brightgreen">
    
-
  
  ### DataBases Work's
-   
    
    - [Dreams](https://github.com/reinanbr/dreams "A lib from python for getting educative videos from any site's") <a href='https://pypi.org/project/dreams'><img src='https://img.shields.io/pypi/v/dreams'><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/dreams"></a><img alt="PyPI - License" src="https://img.shields.io/pypi/l/dreams?color=brightgreen">
    
@@ -168,6 +181,20 @@
    - [Kitano](https://github.com/reinanbr/kitano "a personal lib for development in python") <a href='https://pypi.org/project/kitano'><img src='https://img.shields.io/pypi/v/kitano'><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/kitano"></a><img alt="PyPI - License" src="https://img.shields.io/pypi/l/kitano?color=brightgreen">
    
 
+
+## App's Kivy
+   
+   - [Cardapio](https://github.com/reinanbr/cardapio_kivy)
+   
+   
+ 
+## Codes and Works
+   
+   - [osmnx works](https://github.com/reinanbr/osmnx_work)
+   
+   - [denoise images algorithm's](https://github.com/reinanbr/denoise_img)
+   
+   - [remove followers instagram](https://github.com/reinanbr/remove_insta)
 <!--    
  - [GetPdf](https://github.com/reinanbr/getpdf 'search and download for PDF"s (Dec 2021)') <img src='https://img.shields.io/pypi/v/getpdf'><a href='https://pypi.org/project/getpdf'><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/getpdf"></a><img alt="PyPI - License" src="https://img.shields.io/pypi/l/getpdf?color=brightgreen">
  -->
@@ -233,6 +260,7 @@
 # NodeJs
 
  
+   
 ## bot's 
    
 ### WhatsApp
@@ -240,6 +268,7 @@
   - [EinsteinBot for Zap ](https://github.com/reinanbr/einstein_bot) - in venomjs (js)
 
 
+   
 ## Sites
 
 ### express
@@ -250,10 +279,38 @@
 
 - [gugoolplex](https:/.github.com/reinanbr/gugoolplex) - a site for search with jquery in frontEnd and API google in backEnd (js)
 
-### React 
+   
+### Reactjs
+ 
+- [getporn](https://github.com/reinanbr/getporn_reactjs) (js)
+   
+
+ 
+## App's React Native
+
+- [Image Day Nasa](https://github.com/reinanbr/app_image_day)
+   
+   
+   
+## Lib's
+ 
+- [Kitano](https://github.com/reinanbr/kitano_npm) (js)
 
    
+
+<hr/>
    
+# PHP
+
+ ## DB Work's
+   
+   - [Json DB Save](https://github.com/reinanbr/php_db_json)
+   
+
+
+# Notas de Aula
+   
+   - [Relatividade Especial](https://github.com/reinanbr/aula_notes/tree/main/modern/relativity)
 <!-- # NodeJs
 
 ## Lib's -->

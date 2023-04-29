@@ -195,6 +195,13 @@
    - [denoise images algorithm's](https://github.com/reinanbr/denoise_img)
    
    - [remove followers instagram](https://github.com/reinanbr/remove_insta)
+ 
+### The Research's science:
+  - [Modelagem epidemiológica da COVID-19 nas cidades Petrolina-PE e Juazeiro-BA](https://github.com/gpftc/covid_br) - library for data mining about covid-19 in Brazilian cities (Jan 2021)
+  - [Aplicações de uma estrutura algébrica q-deformada em teoria da informação: portas quânticas generalizadas](https://github.com/gpftc/qfunction) - Library for researcher with statistics and mechanics equation non-extensive (Jun 2021)
+  - [Visualizar	O SISTEMA DE TRANSPORTE COLETIVO EM PETROLINA ANALISADO ATRAVÉS DA TEORIA DE REDES COMPLEXAS](https://github.com/gpftc/bus_net_if) - a complex network from bus drive on if-sertão-petrolina-PE (Jul 2020)
+  - [Dinâmica de fluidos computacional: análise dos efeitos da velocidade de corrente e de poluentes na população de macrófitas aquáticas no trecho urbano do rio São Francisco em Petrolina-PE](https://github.com/gpftc/bus_net_if) - a complex network from bus drive on if-sertão-petrolina-PE (Aug 2020)
+  
 <!--    
  - [GetPdf](https://github.com/reinanbr/getpdf 'search and download for PDF"s (Dec 2021)') <img src='https://img.shields.io/pypi/v/getpdf'><a href='https://pypi.org/project/getpdf'><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/getpdf"></a><img alt="PyPI - License" src="https://img.shields.io/pypi/l/getpdf?color=brightgreen">
  -->

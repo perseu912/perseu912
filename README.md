@@ -1,7 +1,7 @@
-<h1 align='center'>
+<!-- <h1 align='center'>
 <img align="center" height="200" src="https://raw.githubusercontent.com/perseu912/perseu912/main/img/logo8_4_14346.png"/>
   <br/>
-</h1>
+</h1> -->
 
   ### Social
  

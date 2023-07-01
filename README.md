@@ -79,13 +79,9 @@
 # Js
 ## Sites FrontEnd
  - [cardápio](https://github.com/reinanbr/cardapio/) um site que mostra o cardápio da minha faculdade no dia em questão. <a href='https://reinanbr.github.io/cardapio/'> em produção</a> 
- 
- - [IF Física](https://github.com/reinanbr/if_fisica) webApp que contém informações do meu curso de física, como horários, aulas, matérias, pdf etc... <a href='https://reinanbr.github.io/if_fisica/'> Em produção</a> 
-   
+    
  - [reinan.github.io](https://github.com/reinanbr/reinan.github.io) site de sites. <a href='https://reinanbr.github.io'> Em produção</a> 
- 
- - [site doces Ana](https://github.com/reinanbr/site_doces_ana_js)
- 
+
    
  ## simulations 
  
@@ -117,17 +113,7 @@
 
   - [chat voice socket.io](https://github.com/reinanbr/chat_voice_flask)
    
-  - [socket ip chat socket.io](https://github.com/reinanbr/flask_socket_ip_chat)
-   
-  - [radio socket IF](https://github.com/reinanbr/radioif)
-  
-  - [rubynews base](https://github.com/reinanbr/rubynews_flask) primordial base, for the db/api news from news of rubynews.
- 
-   
 ### Django
-
-  - [uasd](https://github.com/reinanbr/uasd) site para administração de pessoas.
-   
 
  
 ## API's

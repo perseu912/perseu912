@@ -3,14 +3,14 @@
   <br/>
 </h1> -->
 
-  ### Social
+
  
 
   <a href="https://twitter.com/BezerraReinan" target="_blank"><img src="https://img.shields.io/badge/twitter-bezerrareinan-%230277B1?style=for-the-badge&logo=twitter&logoColor=blue" target="_blank"></a> 
     <a href="https://www.instagram.com/reinanbr_" target="_blank"><img src="https://img.shields.io/badge/Instagram-reinanbr_-darkviolet?style=for-the-badge&logo=instagram&logoColor=violet" target="_blank"></a>
    <a href="https://www.linkedin.com/in/reinan-santos-2ab037202/" target="_blank"><img src="https://img.shields.io/badge/linkedin-reinan_bezerra-darkblue?style=for-the-badge&logo=linkedin&logoColor=darkblue" target="_blank"></a> 
   
-  ### Dev
+
   
 <!--    <a href="https://www.buymeacoffee.com/ReinanBr" target="_blank"><img src="https://img.shields.io/badge/buymeacoffee-Reinan_Bezerra-yellow?style=for-the-badge&logo=buymeacoffee&logoColor=white?color=black" target="_blank"></a>  -->
   <a href='https://stackoverflow.com/users/13836431/reinan-br'> <img src='https://img.shields.io/badge/stackoverflow-reinan_br-red?style=for-the-badge&logo=stackoverflow&logoColor=red'/> </a>

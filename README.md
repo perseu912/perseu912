@@ -78,7 +78,7 @@
 <hr/>
   
 
-# [Lib's](https://github.com/reinanbr/libs/blob/main/README.md)
+# [Lib's](https://github.com/reinanbr/blob/main/libs.md)
 
 
    ## ❤ Views and Followers

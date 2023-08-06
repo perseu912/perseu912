@@ -78,7 +78,7 @@
 <hr/>
   
 
-# [Lib's](https://github.com/reinanbr/blob/main/libs.md)
+# [Lib's](https://github.com/reinanbr/libs.md)
 
 
    ## ❤ Views and Followers

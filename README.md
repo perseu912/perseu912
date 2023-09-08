@@ -27,7 +27,6 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[group of physics computational](https://github.com/gpftc)**
 
 - 📊 I'm working more in the  **topics from Code Development, Computer Circuit's, Web/App Development, Data Science, OS Testing and Theorical Physics.**
 
@@ -79,7 +78,7 @@
 
 
   
-# Python 3.10+
+# Python 3.9.13+
 
    
 ## Lib's

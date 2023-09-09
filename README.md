@@ -109,8 +109,41 @@
    
    
    - [Kitano](https://github.com/reinanbr/kitano "a personal lib for development in python") <a href='https://pypi.org/project/kitano'><img src='https://img.shields.io/pypi/v/kitano'><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/kitano"></a><img alt="PyPI - License" src="https://img.shields.io/pypi/l/kitano?color=brightgreen">
-  
 
+  
+   - [Adrianna](https://github.com/reinanbr/adriana "lib for working with ML") <a href='https://pypi.org/project/adrianna'><img src='https://img.shields.io/pypi/v/adrianna'><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/adrianna"></a><img alt="PyPI - License" src="https://img.shields.io/pypi/l/adrianna?color=brightgreen">
+
+ 
+ 
+ 
+ ## Sites
+
+   ### Flask
+   - [ReySofts](https://github.com/reinanbr/reysofts) -> site de minha futura empresa em flask
+   - [RubyNews](https://github.com/reinanbr/rubynews) -> um site de notícias
+   - [getporn](https://github.com/reinanbr/getporn) -> a site of educative video's
+   - [Socket in Flask](https://github.com/reinanbr/flask_socket_ip_chat) -> working with socket.io in flask for make a chat in multdevice
+
+   ### API's
+   - [Work API](https://github.com/reinanbr/work_api) -> firt's tests with API in python
+   - [getporn API](https://github.com/reinanbr/api_getporn) -> API for mineration educative video's +18
+   - [API Rocketlc](https://github.com/reinanbr/api_rocketlc) -> API for getting info launch rocket's
+
+
+ ## APP's
+
+   ### Kivy
+   - [Cardápio mobile](https://github.com/reinanbr/cardapio_kivy) -> App Android for show cardapio in my college
+
+ ## Codes and Works
+
+   - [denoise img](https://github.com/reinanbr/denoise_img) -> Um trabalho de faculdade para criação de lib de ruído de imagem
+   - [karina ia](https://github.com/reinanbr/ia_karina) -> IA personal
+   - [Collab Noteboks](https://github.com/reinanbr/colab_notebooks) -> Notebook's Collab of my work's
+
+
+
+# NodeJs
 
    ## ❤ Views and Followers
 

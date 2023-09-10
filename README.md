@@ -192,8 +192,16 @@
   - [Info Física](https://github.com/reinanbr/if_fisica) -> A site for info of my course
   - [gravity simulation](https://github.com/reinanbr/gravity_move) -> a site for testing gravity simulation's in p5js
   - [Physics Simulation's](https://github.com/reinanbr/psj) -> a site with physics simulations
- ## Plugins
+  - [ana doces](https://github.com/reinanbr/site_doces_ana_js) -> um site que fiz brincando para uma colega de sala
 
+  ## Plugins
+  - [Video Player](https://github.com/reinanbr/video_player_js) -> my plugin video player html
+    
+
+  <br>
+  <br>
+  <br>
+  <hr>
      
    ## ❤ Views and Followers
 

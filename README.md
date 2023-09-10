@@ -119,10 +119,12 @@
  ## Sites
 
    ### Flask
-   - [ReySofts](https://github.com/reinanbr/reysofts) -> site de minha futura empresa em flask
    - [RubyNews](https://github.com/reinanbr/rubynews) -> um site de notícias
    - [getporn](https://github.com/reinanbr/getporn) -> a site of educative video's
    - [Socket in Flask](https://github.com/reinanbr/flask_socket_ip_chat) -> working with socket.io in flask for make a chat in multdevice
+   - [exogame](https://github.com/reinanbr/exogame) -> Um jogo de perguntas e respostas sobre exoplanetas. (site do projeto de meu TCC)
+   - [capim](https://github.com/reinanbr/capim) -> Site que analisa dados de um excel sobre produções agricólas. Um site de projeto de ciências de dados.
+
 
    ### API's
    - [Work API](https://github.com/reinanbr/work_api) -> firt's tests with API in python
@@ -142,9 +144,57 @@
    - [Collab Noteboks](https://github.com/reinanbr/colab_notebooks) -> Notebook's Collab of my work's
 
 
+<br>
+<hr>
+
 
 # NodeJs
+  ## Sites
+   ### Express
+   - [Hiperlink Física](https://github.com/reinanbr/hiperlink) -> a site of phyiscs Questions. My firt site profissional
+   - [sertaoscorpius](https://github.com/reinanbr/sertaoscorpius) -> site of pibid Astronomia project
+   - [gugoolplex](https://github.com/reinanbr/gugoolplex) -> a image search site testing API Google
+   - [chat](https://github.com/reinanbr/chat) -> chat message testing the socket.io with express
 
+
+   ### Reactjs
+   - [Image Day](https://github.com/reinanbr/image_day_reactjs) -> Image day site with NASA API
+   - [schedule rocket's](https://github.com/reinanbr/rocket_schedule_reactjs) -> Schedule rocket site with API NASA
+   - [getporn](https://github.com/reinanbr/getporn_reactjs) -> A site for test API of Educstive video
+
+
+ ## APPs (React Native)
+  - [Image Day](https://github.com/reinanbr/app_image_day) -> image day app with NASA API
+  - [Cardapio IF](https://github.com/reinanbr/cardapio_app) -> a cardapio app for my college
+
+ ## Bots
+  ### Venomjs 
+  - [EinsteinBot](https://github.com/reinanbr/einstein_bot) -> Bot for helping and other's works in WhatsApp
+
+
+
+<br>
+<hr>
+
+
+# Dart
+ ## APPs (Flutter)
+ - [rocket schedule](https://github.com/reinanbr/rocket_flutter) -> App that show schedule launch rocket's using my API
+
+
+
+<br>
+<hr>
+
+# JS
+ ## Sites/Templates
+  - [Cárdapio](https://github.com/reinanbr/cardapio) -> Site of project cardapio from my college
+  - [Info Física](https://github.com/reinanbr/if_fisica) -> A site for info of my course
+  - [gravity simulation](https://github.com/reinanbr/gravity_move) -> a site for testing gravity simulation's in p5js
+  - [Physics Simulation's](https://github.com/reinanbr/psj) -> a site with physics simulations
+ ## Plugins
+
+     
    ## ❤ Views and Followers
 
    <a href="https://github.com/reinanbr">

@@ -72,7 +72,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
               
       -->
-  [![My Skills](https://skillicons.dev/icons?i=rust,linux,py,fastapi,flask,dart,flutter,nodejs,typescript,javascript,react,php,sqlite)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=rust,linux,py,flask,dart,flutter,nodejs,typescript,javascript,react,ruby,php,sqlite,cs,julia)](https://skillicons.dev)
   
 <hr/>
 

@@ -7,13 +7,12 @@
  
 
   <a href="https://twitter.com/BezerraReinan" target="_blank"><img src="https://img.shields.io/badge/twitter-bezerrareinan-%230277B1?style=for-the-badge&logo=twitter&logoColor=blue" target="_blank"></a> 
-    <a href="https://www.instagram.com/reinanbr_" target="_blank"><img src="https://img.shields.io/badge/Instagram-reinanbr_-darkviolet?style=for-the-badge&logo=instagram&logoColor=violet" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/reinan-santos-2ab037202/" target="_blank"><img src="https://img.shields.io/badge/linkedin-reinan_bezerra-darkblue?style=for-the-badge&logo=linkedin&logoColor=darkblue" target="_blank"></a> 
+    <a href="https://www.instagram.com/reinanbr_" target="_blank"><img src="https://img.shields.io/badge/Instagram-reinanbr_-darkviolet?style=for-the-badge&logo=instagram&logoColor=violet" target="_blank"></a><a href="https://www.linkedin.com/in/reinan-santos-2ab037202/" target="_blank"><img src="https://img.shields.io/badge/linkedin-reinan_bezerra-darkblue?style=for-the-badge&logo=linkedin&logoColor=darkblue" target="_blank"></a> 
   
 
   
 <!--    <a href="https://www.buymeacoffee.com/ReinanBr" target="_blank"><img src="https://img.shields.io/badge/buymeacoffee-Reinan_Bezerra-yellow?style=for-the-badge&logo=buymeacoffee&logoColor=white?color=black" target="_blank"></a>  -->
-  <a href='https://stackoverflow.com/users/13836431/reinan-br'> <img src='https://img.shields.io/badge/stackoverflow-reinan_br-red?style=for-the-badge&logo=stackoverflow&logoColor=red'/> </a>
+  <a href='https://stackoverflow.com/users/13836431/reinan-br'><img src='https://img.shields.io/badge/stackoverflow-reinan_br-red?style=for-the-badge&logo=stackoverflow&logoColor=red'/></a>
   <a href="https://medium.com/@reinan.bezerra" target="_blank"><img src="https://img.shields.io/badge/Medium-Reinan_Bezerra-black?style=for-the-badge&logo=medium&logoColor=white?color=black" target="_blank"></a> 
 <!-- <a href="https://g.dev/reinanbr" target="_blank"><img src="https://img.shields.io/badge/Google_Dev-Reinan_Bezerra-blue?style=for-the-badge&logo=google&logoColor=white?color=black" target="_blank"></a> 
    -->
@@ -25,23 +24,9 @@
 
 
 
-## 🙋‍♂️ About Me
-
-
-- 📊 I'm working more in the  **topics from Code Development, Computer Circuit's, Web/App Development, Data Science, OS Testing and Theorical Physics.**
-
-- 🌱 I’m Researcher in the **Astrophysics, String Theory, Quantum Theory, CFD, Modern Physics, Discret Math.**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 📫 How to reach me **slimchatuba@gmail.com**
-
-- ⚡ Fun fact **I work for a best development from society programmer in the world and go to the GYM very often, and I love a beautiful and genius girl.**
-
-
 <p align="center">
-     <a href="https://github.com/reinanbr/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=reinanbr&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/> 
+     <a href="https://github.com/reinanbr/">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ReinanBr's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=reinanbr&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/> 
     </a> 
 </p>
 

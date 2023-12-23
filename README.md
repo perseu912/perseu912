@@ -17,7 +17,8 @@
   <a href="https://medium.com/@reinan.bezerra" target="_blank"><img src="https://img.shields.io/badge/Medium-Reinan_Bezerra-black?style=for-the-badge&logo=medium&logoColor=white?color=black" target="_blank"></a> 
 <!-- <a href="https://g.dev/reinanbr" target="_blank"><img src="https://img.shields.io/badge/Google_Dev-Reinan_Bezerra-blue?style=for-the-badge&logo=google&logoColor=white?color=black" target="_blank"></a> 
    -->
-  
+   
+  <a href='https://github.com/reinanbr/reinanbr/blob/main/all_projects.md'>All Project's</a>
   
    ## ❤ Views and Followers
 

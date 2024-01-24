@@ -134,10 +134,6 @@
    - [karina ia](https://github.com/reinanbr/ia_karina) -> IA personal
    - [Collab Noteboks](https://github.com/reinanbr/colab_notebooks) -> Notebook's Collab of my work's
 
-### Notebook's
-   - [Mapping](https://github.com/reinanbr/colab_notebooks/blob/main/mapping.ipynb) -> mapping work with osmnx and other's
-   - [Manim Videos and Images](https://github.com/reinanbr/colab_notebooks/blob/main/Manim_math_phy.ipynb) -> works for show equations, proof's and graph's of physicsMath
-   - 
 
 
 <br>

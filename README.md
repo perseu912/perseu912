@@ -193,10 +193,7 @@
   <br>
   <hr>
      
-   ## ❤ Views and Followers
-
-   <a href="https://github.com/reinanbr">
-    <img src="https://komarev.com/ghpvc/?username=reinanbr">
+   
 
 </a>
 

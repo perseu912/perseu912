@@ -57,7 +57,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
               
       -->
-  [![My Skills](https://skillicons.dev/icons?i=rust,linux,py,flask,dart,flutter,nodejs,typescript,javascript,react,ruby,php,sqlite,cs,julia,mysql,mongodb,java,kotlin)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=linux,py,flask,dart,flutter,nodejs,typescript,javascript,react,php,sqlite,mysql,mongodb)](https://skillicons.dev)
   
 <hr/>
 

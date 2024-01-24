@@ -66,7 +66,9 @@
 ## Sites/APIs
   - [ReySofts](https://github.com/reinanbr/reysofts_php) - Meu sistema pessoal de gerenciamento de minhas aplicações
 
- 
+
+<hr/>
+
 # Python 3.9+
 
    

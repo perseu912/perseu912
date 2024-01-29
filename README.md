@@ -118,7 +118,6 @@
 
    ### API's
    - [Work API](https://github.com/reinanbr/work_api) -> firt's tests with API in python
-   - [getporn API](https://github.com/reinanbr/api_getporn) -> API for mineration educative video's +18
    - [API Rocketlc](https://github.com/reinanbr/api_rocketlc) -> API for getting info launch rocket's
 
 

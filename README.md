@@ -77,6 +77,8 @@
 <!--### on the [Pypi](https://pypi.org/user/Reinan_Br/ 'Reinan Br. - Pipy'):-->
    
  ### Science
+
+   - [AnimatePlot](https://github.com/reinanbr/animatPlot "Create videos/Gif from plot's") <a href='https://pypi.org/project/animateplot'><img src='https://img.shields.io/pypi/v/animateplot'><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/animateplot"></a><img alt="PyPI - License" src="https://img.shields.io/pypi/l/animateplot?color=brightgreen">    
    
    - [noawclg](https://github.com/reinanbr/noawclg "working with data NOAA/NASA climate") <a href="https://doi.org/10.5281/zenodo.7658159"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.7658159.svg" alt="DOI"></a> <a href='https://pypi.org/project/noawclg'><img src='https://img.shields.io/pypi/v/noawclg'><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/noawclg"></a><img alt="PyPI - License" src="https://img.shields.io/pypi/l/noawclg?color=brightgreen">
 

@@ -19,7 +19,6 @@
    -->
 
 
-![Metrics](https://metrics.lecoq.io/reinanbr?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&lines=1&isocalendar=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=America%2FLos_Angeles)  
 <div>
 
 
@@ -63,17 +62,26 @@
 
 ## Python 3.9+
 ### Flask
-   - [RubyNews](https://github.com/reinanbr/rubynews) -> um site de notícias. <br> <img src='https://img.shields.io/badge/flask-darkblue?style=for-the-badge&logo=flask'> <img src='https://img.shields.io/badge/jquery-gray?style=for-the-badge&logo=jquery'> <img src='https://img.shields.io/badge/bootstrap-darkviolet?style=for-the-badge&logo=bootstrap'> <img src='https://img.shields.io/badge/opencv-darkorange?style=for-the-badge&logo=opencv'> <b>|</b>
-   - [Socket in Flask](https://github.com/reinanbr/flask_socket_ip_chat) -> working with socket.io in flask for make a chat in multdevice.<br> <img src='https://img.shields.io/badge/flask-darkblue?style=for-the-badge&logo=flask'> <img src='https://img.shields.io/badge/jquery-gray?style=for-the-badge&logo=jquery'> <img src='https://img.shields.io/badge/bootstrap-darkviolet?style=for-the-badge&logo=bootstrap'> <img src='https://img.shields.io/badge/socketio-white?style=for-the-badge&logo=socketio'> <b>|</b>
-   - [exogame](https://github.com/reinanbr/exogame) -> Um jogo de perguntas e respostas sobre exoplanetas. <br><img src='https://img.shields.io/badge/flask-darkblue?style=for-the-badge&logo=flask'> <img src='https://img.shields.io/badge/jquery-gray?style=for-the-badge&logo=jquery'> <img src='https://img.shields.io/badge/bootstrap-darkviolet?style=for-the-badge&logo=bootstrap'> <img src='https://img.shields.io/badge/socketio-white?style=for-the-badge&logo=socketio'> <img src='https://img.shields.io/badge/firebase-orange?style=for-the-badge&logo=firebase'> <b>|</b>
+   - [RubyNews](https://github.com/reinanbr/rubynews) -> um site de notícias. <br> <img src='https://img.shields.io/badge/flask-darkblue?style=for-the-badge&logo=flask'> <img src='https://img.shields.io/badge/jquery-gray?style=for-the-badge&logo=jquery'> <img src='https://img.shields.io/badge/bootstrap-darkviolet?style=for-the-badge&logo=bootstrap'> <img src='https://img.shields.io/badge/opencv-darkorange?style=for-the-badge&logo=opencv'> <br>  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/reinanbr/rubynews"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reinanbr/rubynews"> 
+
+
+   - [Socket in Flask](https://github.com/reinanbr/flask_socket_ip_chat) -> working with socket.io in flask for make a chat in multdevice.<br> <img src='https://img.shields.io/badge/flask-darkblue?style=for-the-badge&logo=flask'> <img src='https://img.shields.io/badge/jquery-gray?style=for-the-badge&logo=jquery'> <img src='https://img.shields.io/badge/bootstrap-darkviolet?style=for-the-badge&logo=bootstrap'> <img src='https://img.shields.io/badge/socketio-white?style=for-the-badge&logo=socketio'> <br>  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/reinanbr/flask_socket_ip_chat"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reinanbr/flask_socket_ip_chat"> 
+
+   
+   - [exogame](https://github.com/reinanbr/exogame) -> Um jogo de perguntas e respostas sobre exoplanetas. <br><img src='https://img.shields.io/badge/flask-darkblue?style=for-the-badge&logo=flask'> <img src='https://img.shields.io/badge/jquery-gray?style=for-the-badge&logo=jquery'> <img src='https://img.shields.io/badge/bootstrap-darkviolet?style=for-the-badge&logo=bootstrap'> <img src='https://img.shields.io/badge/socketio-white?style=for-the-badge&logo=socketio'> <img src='https://img.shields.io/badge/firebase-orange?style=for-the-badge&logo=firebase'> <br>  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/reinanbr/exogame"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reinanbr/exogame"> 
+
+   
    - [capim](https://github.com/reinanbr/capim) -> Site que analisa dados de um excel sobre produções agricólas. Um site de projeto de ciências de dados.
-     <br><img src='https://img.shields.io/badge/flask-darkblue?style=for-the-badge&logo=flask'> <img src='https://img.shields.io/badge/jquery-gray?style=for-the-badge&logo=jquery'> <img src='https://img.shields.io/badge/bootstrap-darkviolet?style=for-the-badge&logo=bootstrap'>  <img src='https://img.shields.io/badge/numpy-blue?style=for-the-badge&logo=numpy'> <img src='https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas'> <b>|</b>
+     <br><img src='https://img.shields.io/badge/flask-darkblue?style=for-the-badge&logo=flask'> <img src='https://img.shields.io/badge/jquery-gray?style=for-the-badge&logo=jquery'> <img src='https://img.shields.io/badge/bootstrap-darkviolet?style=for-the-badge&logo=bootstrap'>  <img src='https://img.shields.io/badge/numpy-blue?style=for-the-badge&logo=numpy'> <img src='https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas'> <br>  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/reinanbr/capim"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reinanbr/capim"> 
+
 
 
 <hr/><br>
 
 ## PHP 8.1+ 
-  - [ReySofts](https://github.com/reinanbr/reysofts_php) - Meu sistema pessoal de gerenciamento de minhas aplicações. <br> <img src='https://img.shields.io/badge/composer-black?style=for-the-badge&logo=composer'> <img src='https://img.shields.io/badge/jquery-gray?style=for-the-badge&logo=jquery'> <img src='https://img.shields.io/badge/bootstrap-darkviolet?style=for-the-badge&logo=bootstrap'> <img src='https://img.shields.io/badge/fastapi-black?style=for-the-badge&logo=fastapi'> <img src='https://img.shields.io/badge/bash-black?style=for-the-badge&logo=linux'> <img src='https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql'> <br> <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/reinanbr/reysofts_php">
+  - [ReySofts](https://github.com/reinanbr/reysofts_php) - Meu sistema pessoal de gerenciamento de minhas aplicações. <br> <img src='https://img.shields.io/badge/composer-black?style=for-the-badge&logo=composer'> <img src='https://img.shields.io/badge/jquery-gray?style=for-the-badge&logo=jquery'> <img src='https://img.shields.io/badge/bootstrap-darkviolet?style=for-the-badge&logo=bootstrap'> <img src='https://img.shields.io/badge/fastapi-black?style=for-the-badge&logo=fastapi'> <img src='https://img.shields.io/badge/bash-black?style=for-the-badge&logo=linux'> <img src='https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql'> <br>  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/reinanbr/reysofts_php"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reinanbr/reysofts_php"> 
+
+
 
 
 <hr/><br>

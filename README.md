@@ -23,12 +23,6 @@
 
 
 
-<p align="center">
-     <a href="https://github.com/reinanbr/">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ReinanBr's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=reinanbr&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/> 
-    </a> 
-</p>
-
 
  <div>
    <a href="https://github.com/reinanbr">

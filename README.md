@@ -25,9 +25,7 @@
 
 
 <p align="center">
-     <a href="https://github.com/reinanbr/">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ReinanBr's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=reinanbr&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/> 
-    </a> 
+  
 </p>
 
 
@@ -57,25 +55,53 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
               
       -->
-  [![My Skills](https://skillicons.dev/icons?i=linux,py,flask,dart,flutter,nodejs,typescript,javascript,bootstrap,jquery,react,php,sqlite,mysql,mongodb)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=linux,py,dart,typescript,javascript,php,nodejs,sqlite,mysql,flask,flutter,bootstrap,jquery,react)](https://skillicons.dev)
   
 <hr/>
 
+# Sites
 
-# PHP 8.1+
-## Sites/APIs
-  - [ReySofts](https://github.com/reinanbr/reysofts_php) - Meu sistema pessoal de gerenciamento de minhas aplicações
+## Python 3.9+
+### Flask
+   - [RubyNews](https://github.com/reinanbr/rubynews) -> um site de notícias. <br> <img src='https://img.shields.io/badge/flask-darkblue?style=for-the-badge&logo=flask'> <img src='https://img.shields.io/badge/jquery-gray?style=for-the-badge&logo=jquery'> <img src='https://img.shields.io/badge/bootstrap-darkviolet?style=for-the-badge&logo=bootstrap'> <img src='https://img.shields.io/badge/opencv-darkorange?style=for-the-badge&logo=opencv'> <b>|</b>
+   - [Socket in Flask](https://github.com/reinanbr/flask_socket_ip_chat) -> working with socket.io in flask for make a chat in multdevice.<br> <img src='https://img.shields.io/badge/flask-darkblue?style=for-the-badge&logo=flask'> <img src='https://img.shields.io/badge/jquery-gray?style=for-the-badge&logo=jquery'> <img src='https://img.shields.io/badge/bootstrap-darkviolet?style=for-the-badge&logo=bootstrap'> <img src='https://img.shields.io/badge/socketio-white?style=for-the-badge&logo=socketio'> <b>|</b>
+   - [exogame](https://github.com/reinanbr/exogame) -> Um jogo de perguntas e respostas sobre exoplanetas. <br><img src='https://img.shields.io/badge/flask-darkblue?style=for-the-badge&logo=flask'> <img src='https://img.shields.io/badge/jquery-gray?style=for-the-badge&logo=jquery'> <img src='https://img.shields.io/badge/bootstrap-darkviolet?style=for-the-badge&logo=bootstrap'> <img src='https://img.shields.io/badge/socketio-white?style=for-the-badge&logo=socketio'> <img src='https://img.shields.io/badge/firebase-orange?style=for-the-badge&logo=firebase'> <b>|</b>
+   - [capim](https://github.com/reinanbr/capim) -> Site que analisa dados de um excel sobre produções agricólas. Um site de projeto de ciências de dados.
+     <br><img src='https://img.shields.io/badge/flask-darkblue?style=for-the-badge&logo=flask'> <img src='https://img.shields.io/badge/jquery-gray?style=for-the-badge&logo=jquery'> <img src='https://img.shields.io/badge/bootstrap-darkviolet?style=for-the-badge&logo=bootstrap'>  <img src='https://img.shields.io/badge/numpy-blue?style=for-the-badge&logo=numpy'> <img src='https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas'> <b>|</b>
 
 
-<hr/>
+<hr/><br>
 
-# Python 3.9+
+## PHP 8.1+ 
+  - [ReySofts](https://github.com/reinanbr/reysofts_php) - Meu sistema pessoal de gerenciamento de minhas aplicações. <br> <img src='https://img.shields.io/badge/composer-black?style=for-the-badge&logo=composer'> <img src='https://img.shields.io/badge/jquery-gray?style=for-the-badge&logo=jquery'> <img src='https://img.shields.io/badge/bootstrap-darkviolet?style=for-the-badge&logo=bootstrap'> <img src='https://img.shields.io/badge/fastapi-black?style=for-the-badge&logo=fastapi'> <img src='https://img.shields.io/badge/bash-black?style=for-the-badge&logo=linux'> <img src='https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql'> <b>|</b>
+
+
+<hr/><br>
+ 
+ ## Nodejs
+ 
+   ### Express
+   - [Hiperlink Física](https://github.com/reinanbr/hiperlink) -> a site of phyiscs Questions. My firt site profissional
+   - [sertaoscorpius](https://github.com/reinanbr/sertaoscorpius) -> site of pibid Astronomia project
+   - [gugoolplex](https://github.com/reinanbr/gugoolplex) -> a image search site testing API Google
+   - [chat](https://github.com/reinanbr/chat) -> chat message testing the socket.io with express
+
+
+   ### Reactjs
+   - [Image Day](https://github.com/reinanbr/image_day_reactjs) -> Image day site with NASA API
+   - [schedule rocket's](https://github.com/reinanbr/rocket_schedule_reactjs) -> Schedule rocket site with API NASA
+   - [getporn](https://github.com/reinanbr/getporn_reactjs) -> A site for test API of Educstive video
+
+
+<hr><br>
+
+
 
    
-## Lib's
+# Lib's
 
 <!--### on the [Pypi](https://pypi.org/user/Reinan_Br/ 'Reinan Br. - Pipy'):-->
-   
+ ## Python 3.9+
  ### Science
 
    - [AnimatePlot](https://github.com/reinanbr/animatPlot "Create videos/Gif from plot's") <a href='https://pypi.org/project/animateplot'><img src='https://img.shields.io/pypi/v/animateplot'><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/animateplot"></a><img alt="PyPI - License" src="https://img.shields.io/pypi/l/animateplot?color=brightgreen">    
@@ -111,12 +137,6 @@
  ## Sites
 
    ### Flask
-   - [RubyNews](https://github.com/reinanbr/rubynews) -> um site de notícias
-   - [getporn](https://github.com/reinanbr/getporn) -> a site of educative video's
-   - [Socket in Flask](https://github.com/reinanbr/flask_socket_ip_chat) -> working with socket.io in flask for make a chat in multdevice
-   - [exogame](https://github.com/reinanbr/exogame) -> Um jogo de perguntas e respostas sobre exoplanetas. (site do projeto de meu TCC)
-   - [capim](https://github.com/reinanbr/capim) -> Site que analisa dados de um excel sobre produções agricólas. Um site de projeto de ciências de dados.
-
 
    ### API's
    - [Work API](https://github.com/reinanbr/work_api) -> firt's tests with API in python
@@ -142,18 +162,6 @@
 
 # NodeJs
   ## Sites
-   ### Express
-   - [Hiperlink Física](https://github.com/reinanbr/hiperlink) -> a site of phyiscs Questions. My firt site profissional
-   - [sertaoscorpius](https://github.com/reinanbr/sertaoscorpius) -> site of pibid Astronomia project
-   - [gugoolplex](https://github.com/reinanbr/gugoolplex) -> a image search site testing API Google
-   - [chat](https://github.com/reinanbr/chat) -> chat message testing the socket.io with express
-
-
-   ### Reactjs
-   - [Image Day](https://github.com/reinanbr/image_day_reactjs) -> Image day site with NASA API
-   - [schedule rocket's](https://github.com/reinanbr/rocket_schedule_reactjs) -> Schedule rocket site with API NASA
-   - [getporn](https://github.com/reinanbr/getporn_reactjs) -> A site for test API of Educstive video
-
 
  ## APPs (React Native)
   - [Image Day](https://github.com/reinanbr/app_image_day) -> image day app with NASA API

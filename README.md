@@ -73,7 +73,7 @@
 <hr/><br>
 
 ## PHP 8.1+ 
-  - [ReySofts](https://github.com/reinanbr/reysofts_php) - Meu sistema pessoal de gerenciamento de minhas aplicações. <br> <img src='https://img.shields.io/badge/composer-black?style=for-the-badge&logo=composer'> <img src='https://img.shields.io/badge/jquery-gray?style=for-the-badge&logo=jquery'> <img src='https://img.shields.io/badge/bootstrap-darkviolet?style=for-the-badge&logo=bootstrap'> <img src='https://img.shields.io/badge/fastapi-black?style=for-the-badge&logo=fastapi'> <img src='https://img.shields.io/badge/bash-black?style=for-the-badge&logo=linux'> <img src='https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql'> <b>|</b>
+  - [ReySofts](https://github.com/reinanbr/reysofts_php) - Meu sistema pessoal de gerenciamento de minhas aplicações. <br> <img src='https://img.shields.io/badge/composer-black?style=for-the-badge&logo=composer'> <img src='https://img.shields.io/badge/jquery-gray?style=for-the-badge&logo=jquery'> <img src='https://img.shields.io/badge/bootstrap-darkviolet?style=for-the-badge&logo=bootstrap'> <img src='https://img.shields.io/badge/fastapi-black?style=for-the-badge&logo=fastapi'> <img src='https://img.shields.io/badge/bash-black?style=for-the-badge&logo=linux'> <img src='https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql'> <br> <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/reinanbr/reysofts_php">
 
 
 <hr/><br>

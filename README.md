@@ -68,7 +68,9 @@
 
    
    - [capim](https://github.com/reinanbr/capim) -> Site que analisa dados de um excel sobre produções agricólas. Um site de projeto de ciências de dados.
-     <br><img src='https://img.shields.io/badge/flask-darkblue?style=for-the-badge&logo=flask'> <img src='https://img.shields.io/badge/jquery-gray?style=for-the-badge&logo=jquery'> <img src='https://img.shields.io/badge/bootstrap-darkviolet?style=for-the-badge&logo=bootstrap'>  <img src='https://img.shields.io/badge/numpy-blue?style=for-the-badge&logo=numpy'> <img src='https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas'> <br>  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/reinanbr/capim"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reinanbr/capim"> 
+     <br><img src='https://img.shields.io/badge/flask-darkblue?style=for-the-badge&logo=flask'> <img src='https://img.shields.io/badge/jquery-gray?style=for-the-badge&logo=jquery'> <img src='https://img.shields.io/badge/bootstrap-darkviolet?style=for-the-badge&logo=bootstrap'>  <img src='https://img.shields.io/badge/numpy-blue?style=for-the-badge&logo=numpy'> <img src='https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas'> <br>  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/reinanbr/capim"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reinanbr/capim">
+
+   - [sertaoscorpius](https://github.com/reinanbr/sertaoscorpius) -> site of pibid Astronomia project.  . <br><img src='https://img.shields.io/badge/flask-darkblue?style=for-the-badge&logo=flask'> <img src='https://img.shields.io/badge/jquery-gray?style=for-the-badge&logo=jquery'> <img src='https://img.shields.io/badge/bootstrap-darkviolet?style=for-the-badge&logo=bootstrap'> <img src='https://img.shields.io/badge/socketio-white?style=for-the-badge&logo=socketio'>  <br>  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/reinanbr/sertaoscorpius"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reinanbr/sertaoscorpius"> 
 
 
 
@@ -85,10 +87,12 @@
  ## Nodejs
  
    ### Express
-   - [Hiperlink Física](https://github.com/reinanbr/hiperlink) -> a site of phyiscs Questions. My firt site profissional
-   - [sertaoscorpius](https://github.com/reinanbr/sertaoscorpius) -> site of pibid Astronomia project
-   - [gugoolplex](https://github.com/reinanbr/gugoolplex) -> a image search site testing API Google
-   - [chat](https://github.com/reinanbr/chat) -> chat message testing the socket.io with express
+   - [Hiperlink Física](https://github.com/reinanbr/hiperlink) -> a site of phyiscs Questions. My firt site profissional.  <br> <img src='https://img.shields.io/badge/express-black?style=for-the-badge&logo=express'> <img src='https://img.shields.io/badge/jquery-gray?style=for-the-badge&logo=jquery'> <img src='https://img.shields.io/badge/bootstrap-darkviolet?style=for-the-badge&logo=bootstrap'>  <img src='https://img.shields.io/badge/socketio-white?style=for-the-badge&logo=socketio'> <br>  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/reinanbr/hiperlink"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reinanbr/hiperlink">
+     
+   - [gugoolplex](https://github.com/reinanbr/gugoolplex) -> a image search site testing API Google.    <br> <img src='https://img.shields.io/badge/express-black?style=for-the-badge&logo=express'> <img src='https://img.shields.io/badge/jquery-gray?style=for-the-badge&logo=jquery'>  <br>  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/reinanbr/gugoolplex"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reinanbr/gugoolplex">
+   
+   - [chat](https://github.com/reinanbr/chat) -> chat message testing the socket.io with express.  <br> <img src='https://img.shields.io/badge/express-black?style=for-the-badge&logo=express'> <img src='https://img.shields.io/badge/jquery-gray?style=for-the-badge&logo=jquery'>  <img src='https://img.shields.io/badge/socketio-white?style=for-the-badge&logo=socketio'> <br>  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/reinanbr/chat"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reinanbr/chat">
+     
 
 
    ### Reactjs

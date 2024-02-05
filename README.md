@@ -97,7 +97,6 @@
    ### Reactjs
    - #### [Image Day](https://github.com/reinanbr/image_day_reactjs) -> Image day site with NASA API
    - #### [schedule rocket's](https://github.com/reinanbr/rocket_schedule_reactjs) -> Schedule rocket site with API NASA
-   - #### [getporn](https://github.com/reinanbr/getporn_reactjs) -> A site for test API of Educstive video
 
 
 <hr><br>

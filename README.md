@@ -50,6 +50,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
               
       -->
+      
   [![My Skills](https://skillicons.dev/icons?i=linux,py,dart,typescript,javascript,php,nodejs,sqlite,mysql,flask,flutter,bootstrap,jquery,react)](https://skillicons.dev)
   
 <hr/>
@@ -101,6 +102,30 @@
 <hr><br>
 
 
+## JS
+ ### Sites/Templates
+  - #### [Cárdapio](https://github.com/reinanbr/cardapio) -> Site of project cardapio from my college <br>  <img src='https://img.shields.io/badge/jquery-gray?style=for-the-badge&logo=jquery'>  <img src='https://img.shields.io/badge/bootstrap-darkviolet?style=for-the-badge&logo=bootstrap'>  <br>  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/reinanbr/cardapio"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reinanbr/cardapio"> 
+  
+  - #### [Info Física](https://github.com/reinanbr/if_fisica) -> A site for info of my course. <br>  <img src='https://img.shields.io/badge/jquery-gray?style=for-the-badge&logo=jquery'>  <img src='https://img.shields.io/badge/bootstrap-darkviolet?style=for-the-badge&logo=bootstrap'>  <br>  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/reinanbr/if_fisica"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reinanbr/if_fisica">  
+  
+  - #### [gravity simulation](https://github.com/reinanbr/gravity_move) -> a site for testing gravity simulation's in p5js. <br>  <img src='https://img.shields.io/badge/jquery-gray?style=for-the-badge&logo=jquery'> <img src='https://img.shields.io/badge/p5js-pink?style=for-the-badge&logo=p5js'> <img src='https://img.shields.io/badge/bootstrap-darkviolet?style=for-the-badge&logo=bootstrap'>  <br>  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/reinanbr/gravity_move"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reinanbr/gravity_move"> 
+  
+  - #### [Physics Simulation's](https://github.com/reinanbr/psj) -> a site with physics simulations. <br>  <img src='https://img.shields.io/badge/jquery-gray?style=for-the-badge&logo=jquery'> <img src='https://img.shields.io/badge/p5js-pink?style=for-the-badge&logo=p5js'> <img src='https://img.shields.io/badge/bootstrap-darkviolet?style=for-the-badge&logo=bootstrap'>  <br>  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/reinanbr/psj"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reinanbr/psj"> 
+  
+  - #### [ana doces](https://github.com/reinanbr/site_doces_ana_js) -> um site que fiz brincando para uma colega de sala. <br>  <img src='https://img.shields.io/badge/reactjs-gray?style=for-the-badge&logo=react'>  <img src='https://img.shields.io/badge/bootstrap-darkviolet?style=for-the-badge&logo=bootstrap'> <img src='https://img.shields.io/badge/mui-white?style=for-the-badge&logo=mui'>  <br>  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/reinanbr/gravity_move"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reinanbr/gravity_move"> 
+
+
+
+<hr><br>
+
+  # Plugins
+  
+  ## Js
+  
+  - [Video Player](https://github.com/reinanbr/video_player_js) -> my plugin video player html
+    
+
+<hr><br>
 
    
 # Lib's
@@ -136,24 +161,45 @@
   
    - #### [Adrianna](https://github.com/reinanbr/adriana "lib for working with ML") <br> <a href='https://pypi.org/project/adrianna'> <img src='https://img.shields.io/pypi/v/adrianna'> <img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/adrianna"></a> <img alt="PyPI - License" src="https://img.shields.io/pypi/l/adrianna?color=brightgreen"> <br> <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/reinanbr/adriana"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reinanbr/adriana">
 
- 
- 
- 
- ## Sites
 
+ <hr><br>
+ 
+ 
+ # APIs
+ ## Python 3.9+
    ### Flask
+   - #### [Work API](https://github.com/reinanbr/work_api) -> firt's tests with API in python
+   - #### [API Rocketlc](https://github.com/reinanbr/api_rocketlc) -> API for getting info launch rocket's
 
-   ### API's
-   - [Work API](https://github.com/reinanbr/work_api) -> firt's tests with API in python
-   - [API Rocketlc](https://github.com/reinanbr/api_rocketlc) -> API for getting info launch rocket's
+<hr><br>
 
+ # APP's
 
- ## APP's
+ ## Python 3.9+
 
    ### Kivy
+   
    - [Cardápio mobile](https://github.com/reinanbr/cardapio_kivy) -> App Android for show cardapio in my college
 
- ## Codes and Works
+<hr><br>
+
+## Dart
+
+ ### Flutter
+ - [rocket schedule](https://github.com/reinanbr/rocket_flutter) -> App that show schedule launch rocket's using my API
+
+<hr><br>
+
+## NodeJs
+
+  ### React Native
+  - [Image Day](https://github.com/reinanbr/app_image_day) -> image day app with NASA API
+  - [Cardapio IF](https://github.com/reinanbr/cardapio_app) -> a cardapio app for my college
+
+
+<hr><br>
+
+ # Codes and Works
 
    - [denoise img](https://github.com/reinanbr/denoise_img) -> Um trabalho de faculdade para criação de lib de ruído de imagem
    - [karina ia](https://github.com/reinanbr/ia_karina) -> IA personal
@@ -165,13 +211,6 @@
 <hr>
 
 
-# NodeJs
-  ## Sites
-
- ## APPs (React Native)
-  - [Image Day](https://github.com/reinanbr/app_image_day) -> image day app with NASA API
-  - [Cardapio IF](https://github.com/reinanbr/cardapio_app) -> a cardapio app for my college
-
  ## Bots
   ### Venomjs 
   - [EinsteinBot](https://github.com/reinanbr/einstein_bot) -> Bot for helping and other's works in WhatsApp
@@ -182,32 +221,9 @@
 <hr>
 
 
-# Dart
- ## APPs (Flutter)
- - [rocket schedule](https://github.com/reinanbr/rocket_flutter) -> App that show schedule launch rocket's using my API
 
 
 
-<br>
-<hr>
-
-# JS
- ## Sites/Templates
-  - [Cárdapio](https://github.com/reinanbr/cardapio) -> Site of project cardapio from my college
-  - [Info Física](https://github.com/reinanbr/if_fisica) -> A site for info of my course
-  - [gravity simulation](https://github.com/reinanbr/gravity_move) -> a site for testing gravity simulation's in p5js
-  - [Physics Simulation's](https://github.com/reinanbr/psj) -> a site with physics simulations
-  - [ana doces](https://github.com/reinanbr/site_doces_ana_js) -> um site que fiz brincando para uma colega de sala
-
-  ## Plugins
-  - [Video Player](https://github.com/reinanbr/video_player_js) -> my plugin video player html
-    
-
-  <br>
-  <br>
-  <br>
-  <hr>
-     
    
 
 </a>

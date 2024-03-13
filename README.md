@@ -51,7 +51,7 @@
               
       -->
       
-  [![My Skills](https://skillicons.dev/icons?i=linux,py,dart,typescript,javascript,php,nodejs,sqlite,mysql,flask,flutter,bootstrap,jquery,react,rust,golang)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=linux,py,dart,typescript,javascript,php,mysql,flask,flutter,bootstrap,jquery,react,rust,golang)](https://skillicons.dev)
   
 <hr/>
 

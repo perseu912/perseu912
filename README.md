@@ -8,7 +8,6 @@
 
   <a href="https://twitter.com/BezerraReinan" target="_blank"><img src="https://img.shields.io/badge/twitter-bezerrareinan-%230277B1?style=for-the-badge&logo=twitter&logoColor=blue" target="_blank"></a> 
     <a href="https://www.instagram.com/reinanbr_" target="_blank"><img src="https://img.shields.io/badge/Instagram-reinanbr_-darkviolet?style=for-the-badge&logo=instagram&logoColor=violet" target="_blank"></a> 
-    <a href="https://www.linkedin.com/in/reinan-santos-2ab037202/" target="_blank"><img src="https://img.shields.io/badge/linkedin-reinan_bezerra-darkblue?style=for-the-badge&logo=linkedin&logoColor=darkblue" target="_blank"></a> 
   
 
   

@@ -56,6 +56,18 @@
 
 # Sites
 
+## Rust
+### Rocket
+   - #### [base MVC in Rocket/Rust](https://github.com/reinanbr/base_mvc_crud_rs) -> apenas uma base MVC com render Templates para entender como funciona esse framework.<br>  <img src='https://img.shields.io/badge/jquery-gray?style=for-the-badge&logo=jquery'> <img src='https://img.shields.io/badge/bootstrap-darkviolet?style=for-the-badge&logo=bootstrap'> <br>  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/reinanbr/base_mvc_crud_rs"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reinanbr/base_mvc_crud_rs"> 
+
+### Actix
+   - #### [API MVC in Actix/Rust](https://github.com/reinanbr/actix_mvc_crud_rs) -> uma API em MVC com render Templates para brincar com esse framework.<br>   <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/reinanbr/actix_mvc_crud_rs"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reinanbr/actix_mvc_crud_rs"> 
+
+
+
+<hr/><br>
+ 
+
 ## Python 3.9+
 ### Flask
    - #### [RubyNews](https://github.com/reinanbr/rubynews) -> um site de notícias. <br> <img src='https://img.shields.io/badge/flask-darkblue?style=for-the-badge&logo=flask'> <img src='https://img.shields.io/badge/jquery-gray?style=for-the-badge&logo=jquery'> <img src='https://img.shields.io/badge/bootstrap-darkviolet?style=for-the-badge&logo=bootstrap'> <img src='https://img.shields.io/badge/opencv-darkorange?style=for-the-badge&logo=opencv'> <br>  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/reinanbr/rubynews"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reinanbr/rubynews"> 

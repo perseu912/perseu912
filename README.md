@@ -243,6 +243,48 @@
 ## Manual
 
 ## Instalation Base System's and EcoSystem's
+
+
+<br>
+<hr>
+
+# NoteBook's
+
+## Processing Image's
+
+## Data Science
+
+## Plotting
+
+## Science Simulation's
+
+## Processing Video's
+
+## Model's Math
+
+
+<br>
+<hr>
+
+# Code's Working
+
+## Pentest
+
+### Cracking Hash
+
+### Scrapping/Phishing
+
+### Xploit
+
+### Certificate's
+
+### Cracking
+
+### Method's
+
+## Algorithm Work's
+
+## LeetCode
    
 <br>
 <hr>

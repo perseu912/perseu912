@@ -256,6 +256,14 @@
 
 ## Plotting
 
+### Mathematica
+
+### Julia
+
+### Python 3.11+
+
+### R
+
 ## Science Simulation's
 
 ## Processing Video's

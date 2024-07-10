@@ -212,11 +212,7 @@
 
 <hr><br>
 
-# ML
-
-## python 3.9+
-  - [Image Mask](https://github.com/gpftc/face_mask) -> Recognition people with mask and without mask
-    
+   
 
 <hr><br>
 
@@ -224,7 +220,7 @@
  # Codes and Works
 
    - [denoise img](https://github.com/reinanbr/denoise_img) -> Um trabalho de faculdade para criação de lib de ruído de imagem
-   - [karina ia](https://github.com/reinanbr/ia_karina) -> IA personal
+
    - [Collab Noteboks](https://github.com/reinanbr/colab_notebooks) -> Notebook's Collab of my work's
 
 
@@ -246,41 +242,54 @@
 
 
 
-  
-# Config EcoSystem's
 
-## Models Base
+# Processing Data
 
-## Manual
-
-## Instalation Base System's and EcoSystem's
+## Image's and Video
 
 
 <br>
 <hr>
 
-# NoteBook's
 
-## Processing Image's
+# Númeric Methods
 
-## Data Science
+<br>
+<hr>
 
-## Plotting
 
-### Mathematica
+# Data Science
 
-### Julia
+## ML
 
-### Python 3.11+
+### python 3.9+
+  - [Image Mask](https://github.com/gpftc/face_mask) -> Recognition people with mask and without mask
+  - [karina ia](https://github.com/reinanbr/ia_karina) -> IA Personal Chat
+ 
+<hr><br>
+
+## Mathematica
+
+
+<br>
+<hr>
+
+## Julia
+
+<br>
+<hr>
+
+## Python 3.10+
+
+<br>
+<hr>
 
 ### R
 
-## Science Simulation's
+<br>
+<hr>
 
-## Processing Video's
-
-## Model's Math
-
+# Science Simulation's
 
 <br>
 <hr>
@@ -289,19 +298,43 @@
 
 ## Pentest
 
+<br>
+<hr>
+
 ### Cracking Hash
+
+<br>
+<hr>
 
 ### Scrapping/Phishing
 
+<br>
+<hr>
+
 ### Xploit
+
+<br>
+<hr>
 
 ### Certificate's
 
+<br>
+<hr>
+
 ### Cracking
+
+<br>
+<hr>
 
 ### Method's
 
+<br>
+<hr>
+
 ## Algorithm Work's
+
+<br>
+<hr>
 
 ## LeetCode
    

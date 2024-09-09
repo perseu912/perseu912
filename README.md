@@ -217,12 +217,11 @@
 <hr><br>
 
 
- # Codes and Works
+ # Processing Image's
 
    - [denoise img](https://github.com/reinanbr/denoise_img) -> Um trabalho de faculdade para criação de lib de ruído de imagem
 
-   - [Collab Noteboks](https://github.com/reinanbr/colab_notebooks) -> Notebook's Collab of my work's
-
+  
 
 
 <br>
@@ -259,6 +258,10 @@
 
 
 # Data Science
+
+## Notebook's
+ - [Collab Noteboks](https://github.com/reinanbr/colab_notebooks) -> Notebook's Collab of my work's
+
 
 ## ML
 

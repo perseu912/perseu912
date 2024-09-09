@@ -201,7 +201,10 @@
  ### Flutter
  - [rocket schedule](https://github.com/reinanbr/rocket_flutter) -> App that show schedule launch rocket's using my API
 
-<hr><br>
+<hr>
+
+<br>
+
 
 ## NodeJs
 
@@ -214,7 +217,7 @@
 
    
 
-<hr><br>
+
 
 
  # Processing Image's
@@ -238,25 +241,6 @@
 <hr>
 
 
-
-
-
-
-# Processing Data
-
-## Image's and Video
-
-
-<br>
-<hr>
-
-
-# Númeric Methods
-
-<br>
-<hr>
-
-
 # Data Science
 
 ## Notebook's
@@ -269,81 +253,11 @@
   - [Image Mask](https://github.com/gpftc/face_mask) -> Recognition people with mask and without mask
   - [karina ia](https://github.com/reinanbr/ia_karina) -> IA Personal Chat
  
-<hr><br>
 
-## Mathematica
 
 
 <br>
 <hr>
-
-## Julia
-
-<br>
-<hr>
-
-## Python 3.10+
-
-<br>
-<hr>
-
-### R
-
-<br>
-<hr>
-
-# Science Simulation's
-
-<br>
-<hr>
-
-# Code's Working
-
-## Pentest
-
-<br>
-<hr>
-
-### Cracking Hash
-
-<br>
-<hr>
-
-### Scrapping/Phishing
-
-<br>
-<hr>
-
-### Xploit
-
-<br>
-<hr>
-
-### Certificate's
-
-<br>
-<hr>
-
-### Cracking
-
-<br>
-<hr>
-
-### Method's
-
-<br>
-<hr>
-
-## Algorithm Work's
-
-<br>
-<hr>
-
-## LeetCode
-   
-<br>
-<hr>
-
   
    ## ❤ Views and Followers
 

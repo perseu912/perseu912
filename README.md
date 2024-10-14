@@ -52,10 +52,12 @@
       -->
       
   [![My Skills](https://skillicons.dev/icons?i=linux,py,dart,typescript,javascript,php,mysql,flask,flutter,bootstrap,jquery,react,rust,golang,haskell,clojure,elixir,vlang,vala,kotlin,dotnet,spring,lua,julia,java,bash,cpp,c,fortran,perl)](https://skillicons.dev)
-  
+
+<hr>
+<p><a href="#sites">Sites</a> | <a href="#apps">APPs</a></p>
 <hr/>
 
-# Sites
+# <a name="sites"></a> sites
 ## Rust
 ### Rocket
    - #### [base MVC in Rocket/Rust](https://github.com/reinanbr/base_mvc_crud_rs) -> apenas uma base MVC com render Templates para entender como funciona esse framework.<br>  <img src='https://img.shields.io/badge/jquery-gray?style=for-the-badge&logo=jquery'> <img src='https://img.shields.io/badge/bootstrap-darkviolet?style=for-the-badge&logo=bootstrap'> <br>  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/reinanbr/base_mvc_crud_rs"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reinanbr/base_mvc_crud_rs"> 
@@ -181,7 +183,7 @@
 
 
 
- # APP's
+ # apps
  ## Python 3.9+
    ### Kivy
    - [Cardápio mobile](https://github.com/reinanbr/cardapio_kivy) -> App Android for show cardapio in my college

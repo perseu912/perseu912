@@ -51,12 +51,11 @@
               
       -->
       
-  [![My Skills](https://skillicons.dev/icons?i=linux,py,dart,typescript,javascript,php,mysql,flask,flutter,bootstrap,jquery,react,rust,golang)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=linux,py,dart,typescript,javascript,php,mysql,flask,flutter,bootstrap,jquery,react,rust,golang,haskell,clojure,elixir,vlang,vala,kotlin,dotnet,spring,lua,julia,java,bash,cpp,c,fortran,perl)](https://skillicons.dev)
   
 <hr/>
 
 # Sites
-
 ## Rust
 ### Rocket
    - #### [base MVC in Rocket/Rust](https://github.com/reinanbr/base_mvc_crud_rs) -> apenas uma base MVC com render Templates para entender como funciona esse framework.<br>  <img src='https://img.shields.io/badge/jquery-gray?style=for-the-badge&logo=jquery'> <img src='https://img.shields.io/badge/bootstrap-darkviolet?style=for-the-badge&logo=bootstrap'> <br>  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/reinanbr/base_mvc_crud_rs"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reinanbr/base_mvc_crud_rs"> 
@@ -64,18 +63,13 @@
 ### Actix
    - #### [API MVC in Actix/Rust](https://github.com/reinanbr/actix_mvc_crud_rs) -> uma API em MVC com render Templates para brincar com esse framework.<br>   <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/reinanbr/actix_mvc_crud_rs"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reinanbr/actix_mvc_crud_rs"> 
 
-
-
 <hr/><br>
  
-
 ## Python 3.9+
 ### Flask
    - #### [RubyNews](https://github.com/reinanbr/rubynews) -> um site de notícias. <br> <img src='https://img.shields.io/badge/flask-darkblue?style=for-the-badge&logo=flask'> <img src='https://img.shields.io/badge/jquery-gray?style=for-the-badge&logo=jquery'> <img src='https://img.shields.io/badge/bootstrap-darkviolet?style=for-the-badge&logo=bootstrap'> <img src='https://img.shields.io/badge/opencv-darkorange?style=for-the-badge&logo=opencv'> <br>  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/reinanbr/rubynews"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reinanbr/rubynews"> 
 
-
    - #### [Socket in Flask](https://github.com/reinanbr/flask_socket_ip_chat) -> working with socket.io in flask for make a chat in multdevice.<br> <img src='https://img.shields.io/badge/flask-darkblue?style=for-the-badge&logo=flask'> <img src='https://img.shields.io/badge/jquery-gray?style=for-the-badge&logo=jquery'> <img src='https://img.shields.io/badge/bootstrap-darkviolet?style=for-the-badge&logo=bootstrap'> <img src='https://img.shields.io/badge/socketio-white?style=for-the-badge&logo=socketio'> <br>  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/reinanbr/flask_socket_ip_chat"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reinanbr/flask_socket_ip_chat"> 
-
    
    - #### [exogame](https://github.com/reinanbr/exogame) -> Um jogo de perguntas e respostas sobre exoplanetas. <br><img src='https://img.shields.io/badge/flask-darkblue?style=for-the-badge&logo=flask'> <img src='https://img.shields.io/badge/jquery-gray?style=for-the-badge&logo=jquery'> <img src='https://img.shields.io/badge/bootstrap-darkviolet?style=for-the-badge&logo=bootstrap'> <img src='https://img.shields.io/badge/socketio-white?style=for-the-badge&logo=socketio'> <img src='https://img.shields.io/badge/firebase-orange?style=for-the-badge&logo=firebase'> <br>  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/reinanbr/exogame"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reinanbr/exogame"> 
 
@@ -85,27 +79,23 @@
    - #### [sertaoscorpius](https://github.com/reinanbr/sertaoscorpius) -> site of pibid Astronomia project.  . <br><img src='https://img.shields.io/badge/flask-darkblue?style=for-the-badge&logo=flask'> <img src='https://img.shields.io/badge/jquery-gray?style=for-the-badge&logo=jquery'> <img src='https://img.shields.io/badge/bootstrap-darkviolet?style=for-the-badge&logo=bootstrap'> <img src='https://img.shields.io/badge/socketio-white?style=for-the-badge&logo=socketio'>  <br>  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/reinanbr/sertaoscorpius"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reinanbr/sertaoscorpius"> 
 
 
-
 <hr/><br>
+
 
 ## PHP 8.1+ 
   - #### [ReySofts](https://github.com/reinanbr/reysofts_php) - Meu sistema pessoal de gerenciamento de minhas aplicações. <br> <img src='https://img.shields.io/badge/composer-black?style=for-the-badge&logo=composer'> <img src='https://img.shields.io/badge/jquery-gray?style=for-the-badge&logo=jquery'> <img src='https://img.shields.io/badge/bootstrap-darkviolet?style=for-the-badge&logo=bootstrap'> <img src='https://img.shields.io/badge/fastapi-black?style=for-the-badge&logo=fastapi'> <img src='https://img.shields.io/badge/bash-black?style=for-the-badge&logo=linux'> <img src='https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql'> <br>  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/reinanbr/reysofts_php"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reinanbr/reysofts_php"> 
 
 
-
-
 <hr/><br>
+
  
  ## Nodejs
- 
    ### Express
    - #### [Hiperlink Física](https://github.com/reinanbr/hiperlink) -> a site of phyiscs Questions. My firt site profissional.  <br> <img src='https://img.shields.io/badge/express-black?style=for-the-badge&logo=express'> <img src='https://img.shields.io/badge/jquery-gray?style=for-the-badge&logo=jquery'> <img src='https://img.shields.io/badge/bootstrap-darkviolet?style=for-the-badge&logo=bootstrap'>  <img src='https://img.shields.io/badge/socketio-white?style=for-the-badge&logo=socketio'> <br>  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/reinanbr/hiperlink"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reinanbr/hiperlink">
      
    - #### [gugoolplex](https://github.com/reinanbr/gugoolplex) -> a image search site testing API Google.    <br> <img src='https://img.shields.io/badge/express-black?style=for-the-badge&logo=express'> <img src='https://img.shields.io/badge/jquery-gray?style=for-the-badge&logo=jquery'>  <br>  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/reinanbr/gugoolplex"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reinanbr/gugoolplex">
    
    - #### [chat](https://github.com/reinanbr/chat) -> chat message testing the socket.io with express.  <br> <img src='https://img.shields.io/badge/express-black?style=for-the-badge&logo=express'> <img src='https://img.shields.io/badge/jquery-gray?style=for-the-badge&logo=jquery'>  <img src='https://img.shields.io/badge/socketio-white?style=for-the-badge&logo=socketio'> <br>  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/reinanbr/chat"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reinanbr/chat">
-     
-
 
    ### Reactjs
    - #### [schedule rocket's](https://github.com/reinanbr/rocket_schedule_reactjs) -> Schedule rocket site with API NASA.  <br> <img src='https://img.shields.io/badge/express-black?style=for-the-badge&logo='>
@@ -130,22 +120,22 @@
 
 <hr><br>
 
-  # Plugins
-  
+
+
+  # Plugins  
   ## Js
-  
   - [Video Player](https://github.com/reinanbr/video_player_js) -> my plugin video player html
+
     
 
 <hr><br>
 
+
    
 # Lib's
-
 <!--### on the [Pypi](https://pypi.org/user/Reinan_Br/ 'Reinan Br. - Pipy'):-->
  ## Python 3.9+
  ### Science
-
    - #### [AnimatePlot](https://github.com/reinanbr/animatPlot "Create videos/Gif from plot's") <br> <a href='https://pypi.org/project/animateplot'> <img src='https://img.shields.io/pypi/v/animateplot'> <img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/animateplot"> </a><img alt="PyPI - License" src="https://img.shields.io/pypi/l/animateplot?color=brightgreen">    <br>  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/reinanbr/animatPlot"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reinanbr/animatPlot">
    
    - #### [noawclg](https://github.com/reinanbr/noawclg "working with data NOAA/NASA climate") <br> <a href='https://pypi.org/project/noawclg'> <img src='https://img.shields.io/pypi/v/noawclg'> <img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/noawclg"> </a> <img alt="PyPI - License" src="https://img.shields.io/pypi/l/noawclg?color=brightgreen">    <br>  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/reinanbr/noawclg"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reinanbr/noawclg">
@@ -174,7 +164,9 @@
    - #### [Adrianna](https://github.com/reinanbr/adriana "lib for working with ML") <br> <a href='https://pypi.org/project/adrianna'> <img src='https://img.shields.io/pypi/v/adrianna'> <img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/adrianna"></a> <img alt="PyPI - License" src="https://img.shields.io/pypi/l/adrianna?color=brightgreen"> <br> <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/reinanbr/adriana"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reinanbr/adriana">
 
 
+
  <hr><br>
+
  
  
  # APIs
@@ -183,81 +175,77 @@
    - #### [Work API](https://github.com/reinanbr/work_api) -> firt's tests with API in python
    - #### [API Rocketlc](https://github.com/reinanbr/api_rocketlc) -> API for getting info launch rocket's
 
+
+
 <hr><br>
+
 
 
  # APP's
-
  ## Python 3.9+
-
    ### Kivy
-   
    - [Cardápio mobile](https://github.com/reinanbr/cardapio_kivy) -> App Android for show cardapio in my college
+
 
 <hr><br>
 
-## Dart
 
+## Dart
  ### Flutter
  - [rocket schedule](https://github.com/reinanbr/rocket_flutter) -> App that show schedule launch rocket's using my API
 
-<hr>
 
-<br>
+<hr><br>
 
 
 ## NodeJs
-
   ### React Native
   - [Image Day](https://github.com/reinanbr/app_image_day) -> image day app with NASA API
   - [Cardapio IF](https://github.com/reinanbr/cardapio_app) -> a cardapio app for my college
 
 
+
 <hr><br>
 
-   
 
-
-
-
- # Processing Image's
-
+ 
+# Processing Image's
    - [denoise img](https://github.com/reinanbr/denoise_img) -> Um trabalho de faculdade para criação de lib de ruído de imagem
 
-  
 
 
-<br>
-<hr>
+<br><hr>
 
 
- ## Bots
-  ### Venomjs 
+
+# Bots
+  ## zap
+  ### Nodejs
+  #### Venomjs 
   - [EinsteinBot](https://github.com/reinanbr/einstein_bot) -> Bot for helping and other's works in WhatsApp
 
 
 
-<br>
-<hr>
+<br><hr>
+
 
 
 # Data Science
 
-## Notebook's
+## python3
+### Notebook's
  - [Collab Noteboks](https://github.com/reinanbr/colab_notebooks) -> Notebook's Collab of my work's
 
-
-## ML
-
-### python 3.9+
+### ML
   - [Image Mask](https://github.com/gpftc/face_mask) -> Recognition people with mask and without mask
   - [karina ia](https://github.com/reinanbr/ia_karina) -> IA Personal Chat
  
 
 
 
-<br>
-<hr>
+<br><hr>
+
+
   
    ## ❤ Views and Followers
 

@@ -58,7 +58,7 @@
 <hr/>
 
 # <a name="sites"></a> Sites
-- <p><a href="#rust_site">Rust</a> | <a href="#go_site">Golang</a> | <a href="python_site">Python</a> | <a href="#nodejs_site">Nodejs</a> | <a href="#frontend">Front End</a></p>
+- <p><a href="#rust_site">Rust</a> | <a href="#go_site">Golang</a> | <a href="#python_site">Python</a> | <a href="#nodejs_site">Nodejs</a> | <a href="#frontend">Front End</a></p>
 ## <a name="rust_site"></a>Rust
 ### Rocket
    - #### [base MVC in Rocket/Rust](https://github.com/reinanbr/base_mvc_crud_rs) -> apenas uma base MVC com render Templates para entender como funciona esse framework.<br>  <img src='https://img.shields.io/badge/jquery-gray?style=for-the-badge&logo=jquery'> <img src='https://img.shields.io/badge/bootstrap-darkviolet?style=for-the-badge&logo=bootstrap'> <br>  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/reinanbr/base_mvc_crud_rs"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reinanbr/base_mvc_crud_rs"> 

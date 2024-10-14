@@ -54,10 +54,10 @@
   [![My Skills](https://skillicons.dev/icons?i=linux,py,dart,typescript,javascript,php,mysql,flask,flutter,bootstrap,jquery,react,rust,golang,haskell,clojure,elixir,vlang,vala,kotlin,dotnet,spring,lua,julia,java,bash,cpp,c,fortran,perl)](https://skillicons.dev)
 
 <hr>
-<p><a href="#sites">Sites</a> | <a href="#apps">APPs</a></p>
+<p><b>Atalhos -> </b><a href="#sites">Sites</a> | <a href="#plugins">Plugin's</a> | <a href="#libs">Lib's</a> | <a href="#apps">APP's</a> | <a href="#bots">Bot's</a> | <a href="#dtsc">Data Science</a></p>
 <hr/>
 
-# <a name="sites"></a> sites
+# <a name="sites"></a> Sites
 ## Rust
 ### Rocket
    - #### [base MVC in Rocket/Rust](https://github.com/reinanbr/base_mvc_crud_rs) -> apenas uma base MVC com render Templates para entender como funciona esse framework.<br>  <img src='https://img.shields.io/badge/jquery-gray?style=for-the-badge&logo=jquery'> <img src='https://img.shields.io/badge/bootstrap-darkviolet?style=for-the-badge&logo=bootstrap'> <br>  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/reinanbr/base_mvc_crud_rs"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reinanbr/base_mvc_crud_rs"> 
@@ -120,11 +120,11 @@
 
 
 
-<hr><br>
+<hr><br> <!---------------------------------------------------------------------------------------------------------------------------------------------->
 
 
 
-  # Plugins  
+  # <a name="plugins"></a>Plugins  
   ## Js
   - [Video Player](https://github.com/reinanbr/video_player_js) -> my plugin video player html
 
@@ -134,7 +134,7 @@
 
 
    
-# Lib's
+# <a name="libs"></a>Lib's
 <!--### on the [Pypi](https://pypi.org/user/Reinan_Br/ 'Reinan Br. - Pipy'):-->
  ## Python 3.9+
  ### Science
@@ -171,7 +171,7 @@
 
  
  
- # APIs
+ # <a name="apis"></a>APIs
  ## Python 3.9+
    ### Flask
    - #### [Work API](https://github.com/reinanbr/work_api) -> firt's tests with API in python
@@ -207,20 +207,12 @@
 
 
 
-<hr><br>
-
-
- 
-# Processing Image's
-   - [denoise img](https://github.com/reinanbr/denoise_img) -> Um trabalho de faculdade para criação de lib de ruído de imagem
-
-
 
 <br><hr>
 
 
 
-# Bots
+# <a name="bots"></a>Bots
   ## zap
   ### Nodejs
   #### Venomjs 
@@ -232,9 +224,11 @@
 
 
 
-# Data Science
-
+# <a name="dtsc"></a>Data Science
 ## python3
+### Processing Image's
+   - [denoise img](https://github.com/reinanbr/denoise_img) -> Um trabalho de faculdade para criação de lib de ruído de imagem
+
 ### Notebook's
  - [Collab Noteboks](https://github.com/reinanbr/colab_notebooks) -> Notebook's Collab of my work's
 

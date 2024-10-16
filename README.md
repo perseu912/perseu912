@@ -128,6 +128,7 @@
   # <a name="plugins"></a>Plugins  
   ## Js
   - [Video Player](https://github.com/reinanbr/video_player_js) -> my plugin video player html
+  - [visualization music player](https://github.com/reinanbr/mp3_plugin_js) -> my plugin for visualization mp3 music
 
     
 

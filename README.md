@@ -54,7 +54,7 @@
   [![My Skills](https://skillicons.dev/icons?i=linux,py,dart,typescript,javascript,php,mysql,flask,flutter,bootstrap,jquery,react,rust,golang,haskell,clojure,elixir,vlang,vala,kotlin,dotnet,spring,lua,julia,java,bash,cpp,c,fortran,perl)](https://skillicons.dev)
 
 <hr>
-<p><b>Atalhos -> </b><a href="#sites">Sites</a> | <a href="#plugins">Plugin's</a> | <a href="#libs">Lib's</a> | <a href="#apps">APP's</a> | <a href="#bots">Bot's</a> | <a href="#dtsc">Data Science</a></p>
+<p><b>Atalhos -> </b><a href="#sites">Sites</a> | <a href="#plugins">Plugin's</a> | <a href="#libs">Lib's</a> | <a href="#apps">APP's</a> | <a href="#bots">Bot's</a> | <a href="#dtsc">Data Science</a> | <a href="#sim">Simulation's</a> | <a href="#mvc">mvc </a></p>
 <hr/>
 
 # <a name="sites"></a> Sites
@@ -241,6 +241,10 @@
   - [karina ia](https://github.com/reinanbr/ia_karina) -> IA Personal Chat
  
 
+
+ ## <a name="sim"></a>Simulation's
+
+ ##  <a name="mvc"></a>MVC project's
 
 
 <br><hr>

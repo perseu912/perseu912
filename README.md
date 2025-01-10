@@ -38,6 +38,10 @@
    <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/reinanbr/base_mvc_crud_rs">  
    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reinanbr/base_mvc_crud_rs"> 
 
+   - ##### [PhyJs in Rust MVC](https://github.com/reinanbr/phyjs_rust/) -> PhyJs in Rust Back end.
+   <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/reinanbr/phyjs_rust">  
+   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reinanbr/phyjs_rust"> 
+
 ### Actix
    - #### [API MVC in Actix/Rust](https://github.com/reinanbr/actix_mvc_crud_rs) -> An MVC API with template rendering to experiment with this framework.  
    <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/reinanbr/actix_mvc_crud_rs">  
@@ -56,6 +60,20 @@
    - #### [API MVC](https://github.com/reinanbr/db_go_vercel) -> An MVC API in Go, testing SQLPostgres CRUD on Vercel. [Link](https://db-go-vercel.vercel.app/).  
    <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/reinanbr/db_go_vercel">  
    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reinanbr/db_go_vercel"> 
+
+### Gin
+  - #### [Newsletter Geek](https://github.com/reinanbr/newsletter_geek_go_gin) -> examplle site for work with gin.
+   <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/reinanbr/newsletter_geek_go_gin">  
+   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reinanbr/newsletter_geek_go_gin"> 
+
+<hr/><br>
+
+## <a name="java_site"></a> Java
+### Boot Spring
+- #### [evox](https://github.com/reinanbr/evox_spring_boot) -> site gym evolution in Java.
+<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/reinanbr/evox_spring_boot">  
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reinanbr/evox_spring_boot"> 
+
 
 <hr/><br>
 
@@ -411,6 +429,12 @@
 - [Collab Notebooks](https://github.com/reinanbr/colab_notebooks) -> My work's Collab Notebooks.  
   <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/reinanbr/colab_notebooks">  
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reinanbr/colab_noteboooks">
+
+### Governamental Data
+- [IDEB](https://github.com/reinanbr/ideb_plots) -> Data Plots from ideb.
+  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/reinanbr/ideb_plots">  
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reinanbr/ideb_plots">
+  
 
 ### ML
 - [Image Mask](https://github.com/gpftc/face_mask) -> Recognition of people with and without masks.  

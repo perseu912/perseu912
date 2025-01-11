@@ -38,7 +38,7 @@
    <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/reinanbr/base_mvc_crud_rs">  
    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reinanbr/base_mvc_crud_rs"> 
 
-   - ##### [PhyJs in Rust MVC](https://github.com/reinanbr/phyjs_rust/) -> PhyJs in Rust Back end.
+   - #### [PhyJs in Rust MVC](https://github.com/reinanbr/phyjs_rust/) -> PhyJs in Rust Back end.
    <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/reinanbr/phyjs_rust">  
    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reinanbr/phyjs_rust"> 
 
@@ -66,7 +66,30 @@
    <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/reinanbr/newsletter_geek_go_gin">  
    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reinanbr/newsletter_geek_go_gin"> 
 
+  - #### [base mvc gin](https://github.com/reinanbr/base_mvc_go_gin) -> example of a site in mvc/gin.
+
 <hr/><br>
+
+## <a name="scala_site"></a>Scala
+
+  - #### [api scala](https://github.com/reinanbr/test_api_scala) -> test mvc in scala.
+   <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/reinanbr/test_api_scala">  
+   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reinanbr/test_api_scala"> 
+
+
+## <a name="haskell_site"></a>Haskell
+
+- #### [api haskell](https://github.com/reinanbr/test_api_haskell) -> test mvc in haskell.
+
+## <a name="elixir_site"></a>Elixir
+  - #### [elixir api](https://github.com/reinanbr/test_elixir_api) -> example api in elixir.
+
+## <a name="ruby_site"></a>Ruby
+  - #### [api ruby](https://github.com/reinanbr/test_api_ruby) -> exampli api ruby.
+
+## <a name="clojure_site"></a>Clojure
+  - #### [api clojure](https://github.com/reinanbr/test_api_clojure) -> exaample api in clojure.
+
 
 ## <a name="java_site"></a> Java
 ### Boot Spring
@@ -128,6 +151,8 @@
   <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/reinanbr/sertaoscorpius">  
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reinanbr/sertaoscorpius">
 
+- #### [reinanbr site](https://github.com/reinanbr/reinanbr_site)-> second version of reinanbr.com
+
 <hr/><br>
 
 
@@ -187,21 +212,21 @@
 ##  <a name="frontend"></a>Js
 
 ### Sites/Templates
-  - #### [Cárdapio](https://github.com/reinanbr/cardapio) -> Site for the "Cárdapio" project from my college.
+  - #### [Cárdapio](https://github.com/reinanbr/cardapio) 
   <img src='https://img.shields.io/badge/jquery-gray?style=for-the-badge&logo=jquery'>
   <img src='https://img.shields.io/badge/bootstrap-darkviolet?style=for-the-badge&logo=bootstrap'> 
   <br>
   <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/reinanbr/cardapio">
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reinanbr/cardapio"> 
   
-  - #### [Info Física](https://github.com/reinanbr/if_fisica) -> A site providing information about my course.
+  - #### [Info Física](https://github.com/reinanbr/if_fisica) 
     <img src='https://img.shields.io/badge/jquery-gray?style=for-the-badge&logo=jquery'>
     <img src='https://img.shields.io/badge/bootstrap-darkviolet?style=for-the-badge&logo=bootstrap'>  
     <br>  
     <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/reinanbr/if_fisica"> 
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reinanbr/if_fisica">  
   
-  - #### [Gravity Simulation](https://github.com/reinanbr/gravity_move) -> A site for testing gravity simulations in p5.js.
+  - #### [Gravity Simulation](https://github.com/reinanbr/gravity_move) 
     <img src='https://img.shields.io/badge/jquery-gray?style=for-the-badge&logo=jquery'>
     <img src='https://img.shields.io/badge/p5js-pink?style=for-the-badge&logo=p5js'> 
     <img src='https://img.shields.io/badge/bootstrap-darkviolet?style=for-the-badge&logo=bootstrap'>  
@@ -209,7 +234,7 @@
     <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/reinanbr/gravity_move"> 
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reinanbr/gravity_move"> 
   
-  - #### [Physics Simulations](https://github.com/reinanbr/psj) -> A site featuring various physics simulations.
+  - #### [Physics Simulations](https://github.com/reinanbr/psj) 
     <img src='https://img.shields.io/badge/jquery-gray?style=for-the-badge&logo=jquery'>
     <img src='https://img.shields.io/badge/p5js-pink?style=for-the-badge&logo=p5js'> 
     <img src='https://img.shields.io/badge/bootstrap-darkviolet?style=for-the-badge&logo=bootstrap'>  
@@ -217,13 +242,15 @@
     <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/reinanbr/psj"> 
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reinanbr/psj"> 
   
-  - #### [Ana Doces](https://github.com/reinanbr/site_doces_ana_js) -> A playful site I made for a colleague. 
+  - #### [Ana Doces](https://github.com/reinanbr/site_doces_ana_js) 
   <img src='https://img.shields.io/badge/reactjs-gray?style=for-the-badge&logo=react'>  
   <img src='https://img.shields.io/badge/bootstrap-darkviolet?style=for-the-badge&logo=bootstrap'> 
   <img src='https://img.shields.io/badge/mui-white?style=for-the-badge&logo=mui'>  
   <br>  
   <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/reinanbr/site_doces_ana_js"> 
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reinanbr/site_doces_ana_js">
+
+
 
 ---
 <br>
@@ -246,6 +273,8 @@
   - #### [send mail](https://github.com/reinanbr/send_gmail_python) -> Plugin for send mail on API gmail.
    <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/reinanbr/send_gmail_python"> 
    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reinanbr/send_gmail_python">    
+
+  - #### [pix plugin](https://github.com/reinanbr/pix_plugin_mp_py) -> pix plugin for Mercado Pago
 
 <hr><br>
 
@@ -359,6 +388,8 @@
 - #### [Millephp](https://github.com/reinanbr/mille_php) -> Framework MVC for websites in PHP.
    <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/reinanbr/mille_php"> 
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reinanbr/mille_php">
+
+- #### [vitruvia](https://github.com/reinanbr/vitruvia) -> Complete Framework for web in mvc project with php.
   
 
 <hr><br>
@@ -373,6 +404,9 @@
 - #### [API Rocketlc](https://github.com/reinanbr/api_rocketlc) -> API for retrieving rocket launch information.
   <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/reinanbr/api_rocketlc"> 
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reinanbr/api_rocketlc">
+
+### FastApi
+ - #### [api thumb](https://github.com/reinanbr/api_create_thumb_cardapio)
 
 <hr><br>
 
@@ -405,6 +439,8 @@
   <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/reinanbr/cardapio_app">  
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reinanbr/cardapio_app">
 
+- [sttz](https://github.com/reinanbr/sttz) -> Sticker From Telegram To Zap.
+
 <br><hr>
 
 # <a name="bots"></a>Bots
@@ -434,6 +470,9 @@
 - [IDEB](https://github.com/reinanbr/ideb_plots) -> Data Plots from ideb.
   <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/reinanbr/ideb_plots">  
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reinanbr/ideb_plots">
+
+### Plot with map
+- [data plot maps](https://github.com/reinanbr/map_plot_data) -> Plot Map Data.
   
 
 ### ML

@@ -113,6 +113,8 @@
   <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/reinanbr/rubynews">  
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reinanbr/rubynews">
 
+- #### [RubyNews 2](https://github.com/reinanbr/rubynews_flask)
+
 - #### [Socket in Flask](https://github.com/reinanbr/flask_socket_ip_chat) -> Working with socket.io in Flask to create a multi-device chat.  
   <img src='https://img.shields.io/badge/flask-darkblue?style=for-the-badge&logo=flask'>  
   <img src='https://img.shields.io/badge/jquery-gray?style=for-the-badge&logo=jquery'>  
@@ -157,6 +159,7 @@
 
 
 ##  <a name="php_site"></a>PHP 8.1+ 
+ - #### [reysofts laravel](https://github.com/reinanbr/reysofts_laravel) -> base site for wor with laravel
 
 
 <hr/><br>
@@ -164,7 +167,7 @@
 
 ### Express
 
-   - #### [Hiperlink Física](https://github.com/reinanbr/hiperlink) -> A site for physics questions. My first professional site.  
+   - #### [Hiperlink Física](https://github.com/reinanbr/hiperlink) 
    <img src='https://img.shields.io/badge/express-black?style=for-the-badge&logo=express'>  
    <img src='https://img.shields.io/badge/jquery-gray?style=for-the-badge&logo=jquery'>  
    <img src='https://img.shields.io/badge/bootstrap-darkviolet?style=for-the-badge&logo=bootstrap'>  
@@ -207,6 +210,8 @@
    <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/reinanbr/phyjs_react_js">  
    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reinanbr/phyjs_react_js">  
 
+   - #### [rocket schedule](https://github.com/reinanbr/rocket_schedule_reactjs) -> first version from rocket schedule.
+
 
 <hr><br>
 ##  <a name="frontend"></a>Js
@@ -218,13 +223,6 @@
   <br>
   <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/reinanbr/cardapio">
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reinanbr/cardapio"> 
-  
-  - #### [Info Física](https://github.com/reinanbr/if_fisica) 
-    <img src='https://img.shields.io/badge/jquery-gray?style=for-the-badge&logo=jquery'>
-    <img src='https://img.shields.io/badge/bootstrap-darkviolet?style=for-the-badge&logo=bootstrap'>  
-    <br>  
-    <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/reinanbr/if_fisica"> 
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reinanbr/if_fisica">  
   
   - #### [Gravity Simulation](https://github.com/reinanbr/gravity_move) 
     <img src='https://img.shields.io/badge/jquery-gray?style=for-the-badge&logo=jquery'>
@@ -250,12 +248,14 @@
   <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/reinanbr/site_doces_ana_js"> 
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reinanbr/site_doces_ana_js">
 
-
+  - #### [painel info works](https://github.com/reinanbr/painel_info_works)
+    
 
 ---
 <br>
 
 # <a name="plugins"></a>Plugins  
+
 ## JS
   - #### [Video Player](https://github.com/reinanbr/video_player_js) -> My HTML video player plugin.
     <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/reinanbr/video_player_js"> 
@@ -335,8 +335,6 @@
   <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/reinanbr/candphy"> 
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reinanbr/candphy">
 
-### Database Work
-
 - #### [rocketlc](https://github.com/reinanbr/rocketlc "Working with rocket launch schedule data")  
   <a href='https://pypi.org/project/rocketlc'> 
     <img src='https://img.shields.io/pypi/v/rocketlc'> 
@@ -347,15 +345,6 @@
   <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/reinanbr/rocketlc"> 
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reinanbr/rocketlc">
 
-- #### [TubeMp3](https://github.com/reinanbr/tubemp3 "A library for downloading music from YouTube in high quality (Jan 2022)")  
-  <a href='https://pypi.org/project/tubemp3'> 
-    <img src='https://img.shields.io/pypi/v/tubemp3'> 
-  </a>  
-  <img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/tubemp3">  
-  <img alt="PyPI - License" src="https://img.shields.io/pypi/l/tubemp3?color=brightgreen">  
-  <br>  
-  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/reinanbr/tubemp3"> 
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reinanbr/tubemp3">
 
 ### Tool Development
 
@@ -380,6 +369,16 @@
   <br>  
   <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/reinanbr/tubemp3"> 
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reinanbr/tubemp3">
+
+- #### [getpdf](https://github.com/reinanbr/getpdf, "Library for ge pdf's with Google Dorrks")
+  <a href='https://pypi.org/project/getpdf'> 
+    <img src='https://img.shields.io/pypi/v/getpdf'> 
+    <img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/getpdf">
+  </a>  
+  <img alt="PyPI - License" src="https://img.shields.io/pypi/l/tubemp3?color=brightgreen">  
+  <br>  
+  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/reinanbr/getpdf"> 
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reinanbr/getpdf">
 
 <hr><br>
 
@@ -407,6 +406,9 @@
 
 ### FastApi
  - #### [api thumb](https://github.com/reinanbr/api_create_thumb_cardapio)
+ - #### [api climate](https://github.com/reinanbr/api_climate_py/blob/main/main.py) -> climate api thaat use noawclg as base data.
+ - #### [api forex](https://github.com/reinanbr/api_forex_py) -> forex ai in dollar.
+ - #### [api music](https://github.com/reinanbr/api_music) -> api music with tubemp3.
 
 <hr><br>
 
@@ -415,7 +417,7 @@
 # <a name="Apps"></a>APP's
 ## Python 3.9+
 ### Kivy
-- [Cardápio mobile](https://github.com/reinanbr/cardapio_kivy) -> Android app for showing the menu at my college.  
+- #### [Cardápio mobile](https://github.com/reinanbr/cardapio_kivy) -> Android app for showing the menu at my college.  
   <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/reinanbr/cardapio_kivy">  
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reinanbr/cardapio_kivy">
 
@@ -423,23 +425,24 @@
 
 ## Dart
 ### Flutter
-- [Rocket Schedule](https://github.com/reinanbr/rocket_flutter) -> App that shows rocket launch schedules using my API.  
+- #### [Rocket Schedule](https://github.com/reinanbr/rocket_flutter) -> App that shows rocket launch schedules using my API.  
   <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/reinanbr/rocket_flutter">  
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reinanbr/rocket_flutter">
+- #### [sttz](https://github.com/reinanbr/sttz) -> Sticker From Telegram To Zap.
+
 
 <hr><br>
 
 ## NodeJs
 ### React Native
-- [Image Day](https://github.com/reinanbr/app_image_day) -> Image of the day app using NASA API.  
+- #### [Image Day](https://github.com/reinanbr/app_image_day) -> Image of the day app using NASA API.  
   <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/reinanbr/app_image_day">  
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reinanbr/app_image_day">
 
-- [Cardápio IF](https://github.com/reinanbr/cardapio_app) -> A menu app for my college.  
+- #### [Cardápio IF](https://github.com/reinanbr/cardapio_app) -> A menu app for my college.  
   <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/reinanbr/cardapio_app">  
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reinanbr/cardapio_app">
 
-- [sttz](https://github.com/reinanbr/sttz) -> Sticker From Telegram To Zap.
 
 <br><hr>
 
@@ -447,9 +450,11 @@
 ## Zap
 ### Nodejs
 #### Venomjs
-- [EinsteinBot](https://github.com/reinanbr/einstein_bot) -> Bot for helping with tasks and more on WhatsApp.  
+- #### [EinsteinBot](https://github.com/reinanbr/einstein_bot) -> Bot for helping with tasks and more on WhatsApp.  
   <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/reinanbr/einstein_bot">  
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reinanbr/einstein_bot">
+
+- #### [einstein bot ts](https://github.com/reinanbr/einstein_bot_bz) -> base for a bot in ts.
 
 <br><hr>
 
@@ -457,14 +462,16 @@
 ## Python3
 
 ### Image Processing
-- [Denoise Image](https://github.com/reinanbr/denoise_img) -> A university project to create an image denoising library.  
+- #### [Denoise Image](https://github.com/reinanbr/denoise_img) -> A university project to create an image denoising library.  
   <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/reinanbr/denoise_img">  
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reinanbr/denoise_img">
 
 ### Notebooks
-- [Collab Notebooks](https://github.com/reinanbr/colab_notebooks) -> My work's Collab Notebooks.  
+- #### [Collab Notebooks](https://github.com/reinanbr/colab_notebooks) -> My work's Collab Notebooks.  
   <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/reinanbr/colab_notebooks">  
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reinanbr/colab_noteboooks">
+
+- [animatplot wors](https://github.com/reinanbr/animateplot_works)
 
 ### Governamental Data
 - [IDEB](https://github.com/reinanbr/ideb_plots) -> Data Plots from ideb.
@@ -476,13 +483,21 @@
   
 
 ### ML
-- [Image Mask](https://github.com/gpftc/face_mask) -> Recognition of people with and without masks.  
+- #### [Image Mask](https://github.com/gpftc/face_mask) -> Recognition of people with and without masks.  
   <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/gpftc/face_mask">  
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/gpftc/face_mask">
 
-- [Karina IA](https://github.com/reinanbr/ia_karina) -> Personal AI Chat.  
+- #### [Karina IA](https://github.com/reinanbr/ia_karina) -> Personal AI Chat.  
   <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/reinanbr/ia_karina">  
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reinanbr/ia_karina">
+
+<br><hr>
+
+## <a name="video"></a> Midia
+
+### Python
+#### Manim
+- ##### [manim test](https://github.com/reinanbr/manim_tests) -> first test manim sucess.
 
 <br><hr>
 
@@ -494,7 +509,7 @@
 
 ### Python 
 #### Videos
-- ###### [Vidvlog](https://github.com/reinanbr/vidvlog) -> codes for making newsletter videos.  
+- ##### [Vidvlog](https://github.com/reinanbr/vidvlog) -> codes for making newsletter videos.  
   <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/reinanbr/vidvlog">  
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reinanbr/vidvlog">
 

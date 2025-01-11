@@ -403,6 +403,7 @@
 - #### [API Rocketlc](https://github.com/reinanbr/api_rocketlc) -> API for retrieving rocket launch information.
   <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/reinanbr/api_rocketlc"> 
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reinanbr/api_rocketlc">
+- #### [socket api](https://github.com/reinanbr/flask_socket_ip_chat) socket chat api.
 
 ### FastApi
  - #### [api thumb](https://github.com/reinanbr/api_create_thumb_cardapio)
@@ -515,6 +516,10 @@
 
 <br><hr> 
 
+## <a name="gpftc"></a>gpftc (for juazeiro)
+### python
+#### osmnx
+- ##### [mapping street](https://github.com/reinanbr/osmnx_work)
 
 
 ## ❤ Views and Followers
